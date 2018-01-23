@@ -1,0 +1,2 @@
+Restores 10[N]
+weapon uses.[X]

@@ -1,0 +1,127 @@
+/// - Mode 1
+C03
+C07
+8  p- Standing-1.png
+C04
+C1A
+C1F
+8  p- Standing-1.png
+C01
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+8  p- Standing-1.png
+C04
+C08
+C1F
+8  p- Standing-1.png
+C01
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+8  p- Standing-1.png
+C05
+8  p- Standing-1.png
+C01
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+8  p- Standing-1.png
+C05
+8  p- Standing-1.png
+C01
+C06
+C0D
+~~~
+/// - Mode 7
+8  p- Standing-1.png
+C18
+1  p- Standing-1.png
+C0E
+2  p- Dodge-1.png
+2  p- Dodge-2.png
+2  p- Dodge-3.png
+5  p- Dodge-4.png
+5  p- Dodge-5.png
+5  p- Dodge-6.png
+1  p- Dodge-7.png
+2  p- Dodge-8.png
+C01
+10  p- Dodge-8.png
+2  p- Dodge-9.png
+2  p- Dodge-10.png
+3  p- Dodge-11.png
+3  p- Dodge-12.png
+5  p- Dodge-13.png
+5  p- Dodge-14.png
+1  p- Standing-1.png
+C0D
+~~~
+/// - Mode 8
+8  p- Standing-1.png
+C18
+1  p- Standing-1.png
+C0E
+2  p- Dodge-1.png
+2  p- Dodge-2.png
+2  p- Dodge-3.png
+5  p- Dodge-4.png
+5  p- Dodge-5.png
+5  p- Dodge-6.png
+1  p- Dodge-7.png
+2  p- Dodge-8.png
+C01
+10  p- Dodge-8.png
+2  p- Dodge-9.png
+2  p- Dodge-10.png
+3  p- Dodge-11.png
+3  p- Dodge-12.png
+5  p- Dodge-13.png
+5  p- Dodge-14.png
+1  p- Standing-1.png
+C0D
+~~~
+/// - Mode 9
+10  p- Unsheathe-1.png
+3  p- Unsheathe-2.png
+3  p- Unsheathe-3.png
+6  p- Unsheathe-4.png
+3  p- Unsheathe-5.png
+3  p- Unsheathe-6.png
+3  p- Unsheathe-7.png
+1  p- Standing-1.png
+~~~
+/// - Mode 10
+8  p- Standing-1.png
+C01
+~~~
+/// - Mode 11
+10  p- Unsheathe-1.png
+3  p- Unsheathe-2.png
+3  p- Unsheathe-3.png
+6  p- Unsheathe-4.png
+3  p- Unsheathe-5.png
+3  p- Unsheathe-6.png
+3  p- Unsheathe-7.png
+1  p- Standing-1.png
+~~~
+/// - Mode 12
+C03
+C07
+8  p- Standing-1.png
+C04
+8  p- Standing-1.png
+C01
+C06
+C0D
+~~~
+/// - End of animation

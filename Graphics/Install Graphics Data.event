@@ -1,0 +1,148 @@
+
+BattleFrame:
+#incbin "bin\BattleFrame_D2D.bin"
+BF_EN:
+#incbin "bin\BF_Enemyname_D2D.bin"
+BF_PN:
+#incbin "bin\BF_Playername_D2D.bin"
+BF_EW:
+#incbin "bin\BF_Enemywep_D2D.bin"
+BF_PW:
+#incbin "bin\BF_Playerwep_D2D.bin"
+
+HPBarGraphic:
+#incbin "bin/Warning_and_HPGraphic.bin"
+
+Map_Ruby_Stand:
+#incbin "bin/Ruby_Standing_16x32_comp.dmp"
+Map_Ruby_Move:
+#incbin "bin/Ruby_Moving_32x32_comp.dmp"
+
+Map_Snek1_Stand:
+#incext Png2Dmp "map_sprites/snek1stand_32x32.png" --lz77
+Map_Snek2_Stand:
+#incext Png2Dmp "map_sprites/snek2stand_32x32.png" --lz77
+
+//WeaponIcons:
+//#incext Png2Dmp "Weapon Icons/weaponicons_expanded.png"
+
+
+PUSH
+
+//Weapon Icon Pointers
+//  ORG 0x36b4
+//  POIN WeaponIcons
+//  ORG 0x3788
+//  POIN WeaponIcons
+
+//Weapon Icons (in place)
+ORG 0x5926F4
+#incext Png2Dmp "Weapon Icons/swordicons.png"
+#incext Png2Dmp "Weapon Icons/lanceicons.png"
+#incext Png2Dmp "Weapon Icons/axeicons.png"
+#incext Png2Dmp "Weapon Icons/bowicons.png"
+#incext Png2Dmp "Weapon Icons/tomeicons.png"
+#incext Png2Dmp "Weapon Icons/prficons.png"
+
+//New Battle Frame:
+  ORG $51f68
+  POIN BattleFrame
+  ORG $51fc8
+  POIN BF_EN
+  ORG $52088
+  POIN BF_PN
+  ORG $52028
+  POIN BF_EW
+  ORG $52164
+  POIN BF_PW
+  ORG $80201c
+  #incbin "bin\BF_TSA_D2D.bin"
+
+//New Title Screen:
+  ORG $aab3f4
+  #incbin "bin\rwby_bg_tiles_pal.dmp"
+  ORG $aa7760
+  #incbin "bin\rwby_bg_tiles_pt1_comp.dmp"
+  ORG $aa9708
+  #incbin "bin\rwby_bg_tiles_pt2_comp.dmp"
+  ORG $aacedc
+  #incbin "bin\TitleScreen_scroll_D2D.bin"
+  ORG $aab414
+  #incbin "bin\RemovedDragons.bin"
+
+  // #inctext PFinder "path/to/clean_rom.gba" 0xaab3f4 TitlePalette
+  // TitlePalette:
+  //   #incext Png2Dmp "image1.png" --palette-only
+  // #incext PFinder "path/to/clean_rom.gba" 0xaa7760 TitlePt1
+  // TitlePt1:
+  //   #incext Png2Dmp "image1.png" --lz77
+  // #incext PFinder "path/to/clean_rom.gba" 0xaa9708 TitlePt2
+  // TitlePt2:
+  //   #incext Png2Dmp "image2.png" --lz77
+
+//New Stat Screen:
+  ORG $a03368
+  #incbin "bin\Statscreen.dmp"
+  ORG $a064e0
+  #incbin "bin\StatScreen2_D2D.bin"
+  ORG $a06460
+  #incbin "bin\Statscreen_pal.dmp"
+  ORG 0xA05F10
+  #incbin "bin\statscreen_tsa.bin"
+
+//Scrolling bg
+  ORG $b12db4
+  #incext Png2Dmp "scrollybg.png" --lz77
+  //#incext compress "bin\scrollybg.dmp"
+  ORG $b1754c
+  #incbin "bin\scrollybg_pal.dmp" //warning: this includes the second palette not in image
+
+  ORG $b19dec //the two glowing balls
+  #incbin "bin\chapter_start_sparkles_pal.dmp"
+
+//Main Menu bg
+  ORG $a21658
+  #incbin "bin\beacon_img.dmp"
+  ORG $a25dcc
+  #incbin "bin\beacon_pal.dmp"
+//Remove fog
+  ORG $a26380
+  #incbin "bin\no_fog_comp.dmp"
+
+//Darker palette
+  ORG $5b6bb4
+  #incbin "menupalette_dark.dmp"
+  ORG $9ad648
+  #incbin "menupalette_dark.dmp"
+  ORG $a1d850
+  #incbin "menupalette_dark.dmp"
+  ORG $a98e2c
+  #incbin "menupalette_dark.dmp"
+
+//World map (large)
+  ORG $a83364
+  #incext Png2Dmp "remnant_large_4pal.png" //not compressed
+  ORG $a95fe4
+  #incext Png2Dmp "remnant_large_4pal.png" --palette-only
+  ORG $a95f64
+  #incbin "bin/remnant_large_saturated_pal.dmp"
+
+//world map (small)
+  ORG $c2044
+  POIN World_map_small
+  ORG $a9e4c4
+  #incbin "bin/remnant_insertable_palette.dmp"
+
+//World Map (Mini)
+  ORG $c3e6c
+  POIN world_map_mini
+  ORG $aa188c
+  #incext Png2Dmp "minimap_remn.png" --palette-only
+POP
+
+ALIGN 4
+World_map_small:
+#incext Png2Dmp "remnant_insertable.png" --lz77
+
+world_map_mini:
+#incext Png2Dmp "minimap_remn.png" --lz77

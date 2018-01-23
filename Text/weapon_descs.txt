@@ -1,0 +1,31 @@
+#0x43e CRDesc
+Ruby only.[X]
+
+## MyrtDesc
+Weiss only.[X]
+
+##GSDesc
+Blake only.[X]
+
+##ECDesc
+Yang only.[X]
+
+## CMDesc
+Def/Res+3. Jaune only.[X]
+
+##MagnhildDesc
+Nora only.[X]
+
+##MiloADesc
+Def+2. Pyrrha only.[X]
+
+##SFDesc
+Ren only.[X]
+
+##DustCrystalsDesc
+Processed Dust crystals.[N]
+Used for certain weapons.[X]
+
+##DustCrystalsUseDesc
+Restores 10[N]
+weapon uses.[X]

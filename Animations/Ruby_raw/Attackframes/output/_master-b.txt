@@ -1,0 +1,21 @@
+// use the following to insert.
+// insertAnim(<ID>,_testNameModes,_testNameFrames,_testNameOAMRight,_testNameOAMLeft,_testNamePalette)
+// Also, if you haven't included it, add the following definitions:
+// #define _animTable <wherever you repointed the animation table>
+// #define insertAnim(ID,p1,p2,p3,p4,p5) "ORG _animTable + (ID-1)*32 + 12; WORD $08000000 + p1; WORD $08000000 + p2; WORD $08000000 + p3; WORD $08000000 + p4; WORD $08000000 + p5"
+_testNameModes:
+	#incbin modeData.bin
+_testNameFrames:
+	#include _frame.txt
+ALIGN 4
+_testNameOAMLeft:
+	#incbin oamLeft.bin
+ALIGN 4
+_testNameOAMRight:
+	#incbin oamRight.bin
+ALIGN 4
+_testNamePalette:
+	#incbin palette.bin
+ALIGN 4
+	#include _gfx.txt
+ALIGN 4

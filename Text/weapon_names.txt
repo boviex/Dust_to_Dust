@@ -1,0 +1,26 @@
+#0x38e CRName
+Cresc. Rose[X]
+
+## MyrtName
+Myrtenaster[X]
+
+##GSName
+Gmbl Shroud[X]
+
+##ECName
+Ember Celica[X]
+
+## CMName
+Crocea Mors[X]
+
+##MagnhildName
+Magnhild[X]
+
+##MiloAName
+Mil[0xf3]/Ako[0xfa]o[X]
+
+##SFName
+StormFlower[X]
+
+##DustCrystalsName
+Dust Crystals[X]

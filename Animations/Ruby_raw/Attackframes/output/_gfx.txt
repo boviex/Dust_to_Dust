@@ -1,0 +1,242 @@
+_testatk00_png:
+	#incbin bin/atk00_png.bin
+_testatk01_png:
+	#incbin bin/atk01_png.bin
+_testatk02_png:
+	#incbin bin/atk02_png.bin
+_testatk03_png:
+	#incbin bin/atk03_png.bin
+_testatk04_png:
+	#incbin bin/atk04_png.bin
+_testatk05_png:
+	#incbin bin/atk05_png.bin
+_testatk06_png:
+	#incbin bin/atk06_png.bin
+_testatk07_png:
+	#incbin bin/atk07_png.bin
+_testatk08_png:
+	#incbin bin/atk08_png.bin
+_testatk09_png:
+	#incbin bin/atk09_png.bin
+_testatk10_png:
+	#incbin bin/atk10_png.bin
+_testatk11_png:
+	#incbin bin/atk11_png.bin
+_testatk12_png:
+	#incbin bin/atk12_png.bin
+_testatk13_png:
+	#incbin bin/atk13_png.bin
+_testatk14_png:
+	#incbin bin/atk14_png.bin
+_testatk15_png:
+	#incbin bin/atk15_png.bin
+_testatk16_png:
+	#incbin bin/atk16_png.bin
+_testatk17_png:
+	#incbin bin/atk17_png.bin
+_testatk18_png:
+	#incbin bin/atk18_png.bin
+_testatk19_png:
+	#incbin bin/atk19_png.bin
+_testatk20_png:
+	#incbin bin/atk20_png.bin
+_testatk21_png:
+	#incbin bin/atk21_png.bin
+_testatk22_png:
+	#incbin bin/atk22_png.bin
+_testatk23_png:
+	#incbin bin/atk23_png.bin
+_testatk24_png:
+	#incbin bin/atk24_png.bin
+_testatk25_png:
+	#incbin bin/atk25_png.bin
+_testatk26_png:
+	#incbin bin/atk26_png.bin
+_testatk27_png:
+	#incbin bin/atk27_png.bin
+_testatk28_png:
+	#incbin bin/atk28_png.bin
+_testatk29_png:
+	#incbin bin/atk29_png.bin
+_testatk30_png:
+	#incbin bin/atk30_png.bin
+_testatk31_png:
+	#incbin bin/atk31_png.bin
+_testatk32_png:
+	#incbin bin/atk32_png.bin
+_testatk33_png:
+	#incbin bin/atk33_png.bin
+_testatk34_png:
+	#incbin bin/atk34_png.bin
+_testatk35_png:
+	#incbin bin/atk35_png.bin
+_testatk36_png:
+	#incbin bin/atk36_png.bin
+_testatk37_png:
+	#incbin bin/atk37_png.bin
+_testatk38_png:
+	#incbin bin/atk38_png.bin
+_testatk39_png:
+	#incbin bin/atk39_png.bin
+_testatk40_png:
+	#incbin bin/atk40_png.bin
+_testatk41_png:
+	#incbin bin/atk41_png.bin
+_testatk42_png:
+	#incbin bin/atk42_png.bin
+_testatk43_png:
+	#incbin bin/atk43_png.bin
+_testatk44_png:
+	#incbin bin/atk44_png.bin
+_testatk45_png:
+	#incbin bin/atk45_png.bin
+_testatk46_png:
+	#incbin bin/atk46_png.bin
+_testatk47_png:
+	#incbin bin/atk47_png.bin
+_testatk48_png:
+	#incbin bin/atk48_png.bin
+_testatk49_png:
+	#incbin bin/atk49_png.bin
+_testcrit02_png:
+	#incbin bin/crit02_png.bin
+_testcrit03_png:
+	#incbin bin/crit03_png.bin
+_testcrit04_png:
+	#incbin bin/crit04_png.bin
+_testcrit05_png:
+	#incbin bin/crit05_png.bin
+_testcrit06_png:
+	#incbin bin/crit06_png.bin
+_testcrit07_png:
+	#incbin bin/crit07_png.bin
+_testcrit08_png:
+	#incbin bin/crit08_png.bin
+_testcrit09_png:
+	#incbin bin/crit09_png.bin
+_testcrit10_png:
+	#incbin bin/crit10_png.bin
+_testcrit11_png:
+	#incbin bin/crit11_png.bin
+_testcrit12_png:
+	#incbin bin/crit12_png.bin
+_testcrit13_png:
+	#incbin bin/crit13_png.bin
+_testcrit14_png:
+	#incbin bin/crit14_png.bin
+_testcrit15_png:
+	#incbin bin/crit15_png.bin
+_testcrit16_png:
+	#incbin bin/crit16_png.bin
+_testcrit17_png:
+	#incbin bin/crit17_png.bin
+_testcrit18_png:
+	#incbin bin/crit18_png.bin
+_testcrit19_png:
+	#incbin bin/crit19_png.bin
+_testcrit20_png:
+	#incbin bin/crit20_png.bin
+_testcrit21_png:
+	#incbin bin/crit21_png.bin
+_testDodge_6_png:
+	#incbin bin/Dodge_6_png.bin
+_testDodge_7_png:
+	#incbin bin/Dodge_7_png.bin
+_testcrit24_png:
+	#incbin bin/crit24_png.bin
+_testcrit25_png:
+	#incbin bin/crit25_png.bin
+_testcrit26_png:
+	#incbin bin/crit26_png.bin
+_testcrit27_png:
+	#incbin bin/crit27_png.bin
+_testcrit28_png:
+	#incbin bin/crit28_png.bin
+_testcrit29_png:
+	#incbin bin/crit29_png.bin
+_testcrit30_png:
+	#incbin bin/crit30_png.bin
+_testcrit31_png:
+	#incbin bin/crit31_png.bin
+_testcrit32_png:
+	#incbin bin/crit32_png.bin
+_testcrit33_png:
+	#incbin bin/crit33_png.bin
+_testcrit34_png:
+	#incbin bin/crit34_png.bin
+_testcrit35_png:
+	#incbin bin/crit35_png.bin
+_testcrit36_png:
+	#incbin bin/crit36_png.bin
+_testcrit37_png:
+	#incbin bin/crit37_png.bin
+_testcrit38_png:
+	#incbin bin/crit38_png.bin
+_testcrit39_png:
+	#incbin bin/crit39_png.bin
+_testcrit40_png:
+	#incbin bin/crit40_png.bin
+_testcrit41_png:
+	#incbin bin/crit41_png.bin
+_testcrit42_png:
+	#incbin bin/crit42_png.bin
+_testcrit43_png:
+	#incbin bin/crit43_png.bin
+_testcrit44_png:
+	#incbin bin/crit44_png.bin
+_testcrit45_png:
+	#incbin bin/crit45_png.bin
+_testcrit46_png:
+	#incbin bin/crit46_png.bin
+_testcrit47_png:
+	#incbin bin/crit47_png.bin
+_testcrit48_png:
+	#incbin bin/crit48_png.bin
+_testcrit49_png:
+	#incbin bin/crit49_png.bin
+_testcrit50_png:
+	#incbin bin/crit50_png.bin
+_testcrit51_png:
+	#incbin bin/crit51_png.bin
+_testcrit52_png:
+	#incbin bin/crit52_png.bin
+_testcrit53_png:
+	#incbin bin/crit53_png.bin
+_testDodge_1_png:
+	#incbin bin/Dodge_1_png.bin
+_testDodge_2_png:
+	#incbin bin/Dodge_2_png.bin
+_testDodge_3_png:
+	#incbin bin/Dodge_3_png.bin
+_testDodge_4_png:
+	#incbin bin/Dodge_4_png.bin
+_testDodge_5_png:
+	#incbin bin/Dodge_5_png.bin
+_testDodge_8_png:
+	#incbin bin/Dodge_8_png.bin
+_testDodge_9_png:
+	#incbin bin/Dodge_9_png.bin
+_testDodge_10_png:
+	#incbin bin/Dodge_10_png.bin
+_testDodge_11_png:
+	#incbin bin/Dodge_11_png.bin
+_testDodge_12_png:
+	#incbin bin/Dodge_12_png.bin
+_testDodge_13_png:
+	#incbin bin/Dodge_13_png.bin
+_testDodge_14_png:
+	#incbin bin/Dodge_14_png.bin
+_testUnsheathe_1_png:
+	#incbin bin/Unsheathe_1_png.bin
+_testUnsheathe_2_png:
+	#incbin bin/Unsheathe_2_png.bin
+_testUnsheathe_3_png:
+	#incbin bin/Unsheathe_3_png.bin
+_testUnsheathe_4_png:
+	#incbin bin/Unsheathe_4_png.bin
+_testUnsheathe_5_png:
+	#incbin bin/Unsheathe_5_png.bin
+_testUnsheathe_6_png:
+	#incbin bin/Unsheathe_6_png.bin
+_testUnsheathe_7_png:
+	#incbin bin/Unsheathe_7_png.bin

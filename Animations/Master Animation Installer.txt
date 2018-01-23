@@ -1,0 +1,10 @@
+#define ClassAnimTable (0xc00008-0x20)
+
+#define AnimTableEntry(index) "ORG ClassAnimTable + (index * 0x20)"
+
+#include BattleAnimPointers.event
+
+//////////////Installed animations go here:
+#include "Ruby/Ruby Installer.event"
+#include "Blake/Blake Installer.event"
+#include "Weiss/Weiss Installer.event"

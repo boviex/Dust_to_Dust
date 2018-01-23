@@ -1,0 +1,260 @@
+/// - Mode 1
+C03
+C07
+1  p- Standing-1.png
+3  p- Attacking-1.png
+4  p- Attacking-2.png
+C43
+18  p- Attacking-3.png
+C23
+2  p- Attacking-4.png
+2  p- Attacking-5.png
+C51
+C1F
+2  p- Attacking-6.png
+C04
+C1A
+C1F
+2  p- Attacking-6.png
+5  p- Attacking-7.png
+3  p- Attacking-8.png
+2  p- Attacking-9.png
+1  p- Attacking-10.png
+C01
+7  p- Attacking-10a.png
+1  p- Attacking-11.png
+1  p- Attacking-12.png
+3  p- Attacking-13.png
+C37
+1  p- Attacking-14.png
+1  p- Attacking-15.png
+1  p- Attacking-16.png
+1  p- Attacking-17.png
+1  p- Attacking-18.png
+1  p- Attacking-19.png
+1  p- Attacking-20.png
+1  p- Attacking-21.png
+1  p- Attacking-22.png
+1  p- Attacking-23.png
+C34
+4  p- Attacking-24.png
+5  p- Attacking-25.png
+4  p- Attacking-26.png
+3  p- Attacking-27.png
+3  p- Attacking-28.png
+2  p- Attacking-29.png
+C06
+10 p- Standing-1.png
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1  p- Standing-1.png
+3  p- Attacking-1.png
+4  p- Attacking-2.png
+C43
+18 p- Attacking-3.png
+8  p- Crit-1.png
+C23
+2  p- Crit-2.png
+5  p- Crit-3.png
+5  p- Crit-4.png
+5  p- Crit-5.png
+5  p- Crit-6.png
+3  p- Crit-7.png
+C23
+2  p- Crit-8.png
+C51
+C15
+C1F
+2  p- Crit-9.png
+4  p- Crit-10.png
+4  p- Crit-11.png
+14  p- Crit-11b.png
+C51
+C1F
+2  p- Crit-12.png
+2  p- Crit-13.png
+4  p- Crit-14.png
+4  p- Crit-15.png
+4  p- Crit-16.png
+3  p- Crit-17.png
+C51
+C15
+C1F
+3  p- Crit-18.png
+4  p- Crit-19.png
+4  p- Crit-20.png
+4  p- Crit-21.png
+6 p- Crit-21b.png
+3  p- Crit-22.png
+C51
+C1F
+3  p- Crit-23.png
+4  p- Crit-24.png
+4  p- Crit-25.png
+6  p- Crit-26.png
+6  p- Crit-27.png
+3  p- Crit-28.png
+C04
+C08
+C1F
+3  p- Crit-29.png
+3  p- Crit-30.png
+3  p- Crit-31.png
+3  p- Crit-32.png
+3  p- Crit-33.png
+3  p- Crit-34.png
+3  p- Crit-35.png
+3  p- Crit-36.png
+13  p- Crit-37.png
+C01
+1  p- Crit-38.png
+1  p- Crit-39.png
+1  p- Crit-40.png
+1  p- Crit-41.png
+1  p- Crit-42.png
+C37
+1  p- Crit-43.png
+1  p- Crit-44.png
+1  p- Attacking-14.png
+1  p- Attacking-15.png
+1  p- Attacking-16.png
+1  p- Attacking-17.png
+1  p- Attacking-18.png
+1  p- Attacking-19.png
+1  p- Attacking-20.png
+1  p- Attacking-21.png
+1  p- Attacking-22.png
+1  p- Attacking-23.png
+C34
+4  p- Attacking-24.png
+5  p- Attacking-25.png
+4  p- Attacking-26.png
+3  p- Attacking-27.png
+3  p- Attacking-28.png
+2  p- Attacking-29.png
+C06
+10 p- Standing-1.png
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+8  p- Standing-1.png
+C05
+8  p- Standing-1.png
+C01
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+8  p- Standing-1.png
+C05
+8  p- Standing-1.png
+C01
+C06
+C0D
+~~~
+/// - Mode 7
+8  p- Standing-1.png
+C02
+1  p- Standing-1.png
+C0E
+C51
+C1F
+3  p- Dodge-1.png
+1  p- Dodge-2.png
+C01
+5  p- Dodge-3.png
+5  p- Dodge-4.png
+3  p- Dodge-3.png
+3  p- Dodge-4.png
+1  p- Dodge-3.png
+18  p- Dodge-4.png
+C23
+3  p- Dodge-5.png
+1  p- Standing-1.png
+C0D
+~~~
+/// - Mode 8
+8  p- Standing-1.png
+C02
+1  p- Standing-1.png
+C0E
+C51
+C1F
+3  p- Dodge-1.png
+10  p- Dodge-2.png
+5  p- Dodge-3.png
+5  p- Dodge-4.png
+3  p- Dodge-3.png
+1  p- Dodge-4.png
+C01
+8  p- Dodge-4.png
+C23
+3  p- Dodge-5.png
+1  p- Standing-1.png
+C0D
+~~~
+/// - Mode 9
+8  p- Standing-1.png
+C01
+~~~
+/// - Mode 10
+8  p- Standing-1.png
+C01
+~~~
+/// - Mode 11
+8  p- Standing-1.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1  p- Standing-1.png
+3  p- Attacking-1.png
+4  p- Attacking-2.png
+C43
+18  p- Attacking-3.png
+C23
+2  p- Attacking-4.png
+2  p- Attacking-5.png
+C04
+2  p- Attacking-6.png
+2  p- Attacking-6.png
+5  p- Attacking-7.png
+3  p- Attacking-8.png
+2  p- Attacking-9.png
+1  p- Attacking-10.png
+C01
+7  p- Attacking-10a.png
+1  p- Attacking-11.png
+1  p- Attacking-12.png
+3  p- Attacking-13.png
+C37
+1  p- Attacking-14.png
+1  p- Attacking-15.png
+1  p- Attacking-16.png
+1  p- Attacking-17.png
+1  p- Attacking-18.png
+1  p- Attacking-19.png
+1  p- Attacking-20.png
+1  p- Attacking-21.png
+1  p- Attacking-22.png
+1  p- Attacking-23.png
+C34
+4  p- Attacking-24.png
+5  p- Attacking-25.png
+4  p- Attacking-26.png
+3  p- Attacking-27.png
+3  p- Attacking-28.png
+2  p- Attacking-29.png
+C06
+10 p- Standing-1.png
+C0D
+~~~
+/// - End of animation

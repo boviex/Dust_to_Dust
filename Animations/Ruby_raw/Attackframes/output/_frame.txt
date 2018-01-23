@@ -1,0 +1,1866 @@
+BYTE 0x10 0x6c 0x13 0x0
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 3 0 0 0x85
+BYTE 0
+BYTE 7 0 0 0x85
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testatk01_png (_testatk01_png>>8) (_testatk01_png>>16) (_testatk01_png>>24) + 0x8
+BYTE 0
+BYTE 24 0 0 0
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testatk02_png (_testatk02_png>>8) (_testatk02_png>>16) (_testatk02_png>>24) + 0x8
+BYTE 48 0 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testatk03_png (_testatk03_png>>8) (_testatk03_png>>16) (_testatk03_png>>24) + 0x8
+BYTE 0
+BYTE 72 0 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk04_png (_testatk04_png>>8) (_testatk04_png>>16) (_testatk04_png>>24) + 0x8
+BYTE 96 0 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk05_png (_testatk05_png>>8) (_testatk05_png>>16) (_testatk05_png>>24) + 0x8
+BYTE 0
+BYTE 120 0 0 0
+BYTE 72 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk06_png (_testatk06_png>>8) (_testatk06_png>>16) (_testatk06_png>>24) + 0x8
+BYTE 0
+BYTE 144 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk07_png (_testatk07_png>>8) (_testatk07_png>>16) (_testatk07_png>>24) + 0x8
+BYTE 168 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk08_png (_testatk08_png>>8) (_testatk08_png>>16) (_testatk08_png>>24) + 0x8
+BYTE 0
+BYTE 192 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk09_png (_testatk09_png>>8) (_testatk09_png>>16) (_testatk09_png>>24) + 0x8
+BYTE 216 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk10_png (_testatk10_png>>8) (_testatk10_png>>16) (_testatk10_png>>24) + 0x8
+BYTE 0
+BYTE 240 0 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk11_png (_testatk11_png>>8) (_testatk11_png>>16) (_testatk11_png>>24) + 0x8
+BYTE 8 1 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk12_png (_testatk12_png>>8) (_testatk12_png>>16) (_testatk12_png>>24) + 0x8
+BYTE 0
+BYTE 32 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk13_png (_testatk13_png>>8) (_testatk13_png>>16) (_testatk13_png>>24) + 0x8
+BYTE 56 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk14_png (_testatk14_png>>8) (_testatk14_png>>16) (_testatk14_png>>24) + 0x8
+BYTE 0
+BYTE 80 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk15_png (_testatk15_png>>8) (_testatk15_png>>16) (_testatk15_png>>24) + 0x8
+BYTE 104 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk16_png (_testatk16_png>>8) (_testatk16_png>>16) (_testatk16_png>>24) + 0x8
+BYTE 0
+BYTE 128 1 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk17_png (_testatk17_png>>8) (_testatk17_png>>16) (_testatk17_png>>24) + 0x8
+BYTE 152 1 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk18_png (_testatk18_png>>8) (_testatk18_png>>16) (_testatk18_png>>24) + 0x8
+BYTE 0
+BYTE 176 1 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk19_png (_testatk19_png>>8) (_testatk19_png>>16) (_testatk19_png>>24) + 0x8
+BYTE 200 1 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk20_png (_testatk20_png>>8) (_testatk20_png>>16) (_testatk20_png>>24) + 0x8
+BYTE 0
+BYTE 224 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk21_png (_testatk21_png>>8) (_testatk21_png>>16) (_testatk21_png>>24) + 0x8
+BYTE 248 1 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk22_png (_testatk22_png>>8) (_testatk22_png>>16) (_testatk22_png>>24) + 0x8
+BYTE 0
+BYTE 16 2 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk23_png (_testatk23_png>>8) (_testatk23_png>>16) (_testatk23_png>>24) + 0x8
+BYTE 40 2 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk24_png (_testatk24_png>>8) (_testatk24_png>>16) (_testatk24_png>>24) + 0x8
+BYTE 0
+BYTE 64 2 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk25_png (_testatk25_png>>8) (_testatk25_png>>16) (_testatk25_png>>24) + 0x8
+BYTE 88 2 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk26_png (_testatk26_png>>8) (_testatk26_png>>16) (_testatk26_png>>24) + 0x8
+BYTE 0
+BYTE 124 2 0 0
+BYTE 4 0 0 0x85
+BYTE 0
+BYTE 26 0 0 0x85
+BYTE 31 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk27_png (_testatk27_png>>8) (_testatk27_png>>16) (_testatk27_png>>24) + 0x8
+BYTE 0
+BYTE 160 2 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk28_png (_testatk28_png>>8) (_testatk28_png>>16) (_testatk28_png>>24) + 0x8
+BYTE 184 2 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk29_png (_testatk29_png>>8) (_testatk29_png>>16) (_testatk29_png>>24) + 0x8
+BYTE 0
+BYTE 208 2 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk30_png (_testatk30_png>>8) (_testatk30_png>>16) (_testatk30_png>>24) + 0x8
+BYTE 232 2 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk31_png (_testatk31_png>>8) (_testatk31_png>>16) (_testatk31_png>>24) + 0x8
+BYTE 0
+BYTE 0 3 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testatk32_png (_testatk32_png>>8) (_testatk32_png>>16) (_testatk32_png>>24) + 0x8
+BYTE 24 3 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testatk33_png (_testatk33_png>>8) (_testatk33_png>>16) (_testatk33_png>>24) + 0x8
+BYTE 0
+BYTE 48 3 0 0
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk34_png (_testatk34_png>>8) (_testatk34_png>>16) (_testatk34_png>>24) + 0x8
+BYTE 72 3 0 0
+BYTE 0
+BYTE 1 0 0 0x85
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk35_png (_testatk35_png>>8) (_testatk35_png>>16) (_testatk35_png>>24) + 0x8
+BYTE 96 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk36_png (_testatk36_png>>8) (_testatk36_png>>16) (_testatk36_png>>24) + 0x8
+BYTE 0
+BYTE 120 3 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk37_png (_testatk37_png>>8) (_testatk37_png>>16) (_testatk37_png>>24) + 0x8
+BYTE 144 3 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk38_png (_testatk38_png>>8) (_testatk38_png>>16) (_testatk38_png>>24) + 0x8
+BYTE 0
+BYTE 168 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk39_png (_testatk39_png>>8) (_testatk39_png>>16) (_testatk39_png>>24) + 0x8
+BYTE 192 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk40_png (_testatk40_png>>8) (_testatk40_png>>16) (_testatk40_png>>24) + 0x8
+BYTE 0
+BYTE 216 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk41_png (_testatk41_png>>8) (_testatk41_png>>16) (_testatk41_png>>24) + 0x8
+BYTE 240 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk42_png (_testatk42_png>>8) (_testatk42_png>>16) (_testatk42_png>>24) + 0x8
+BYTE 0
+BYTE 8 4 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk43_png (_testatk43_png>>8) (_testatk43_png>>16) (_testatk43_png>>24) + 0x8
+BYTE 32 4 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk44_png (_testatk44_png>>8) (_testatk44_png>>16) (_testatk44_png>>24) + 0x8
+BYTE 0
+BYTE 56 4 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk45_png (_testatk45_png>>8) (_testatk45_png>>16) (_testatk45_png>>24) + 0x8
+BYTE 80 4 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testatk46_png (_testatk46_png>>8) (_testatk46_png>>16) (_testatk46_png>>24) + 0x8
+BYTE 0
+BYTE 104 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk47_png (_testatk47_png>>8) (_testatk47_png>>16) (_testatk47_png>>24) + 0x8
+BYTE 128 4 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk48_png (_testatk48_png>>8) (_testatk48_png>>16) (_testatk48_png>>24) + 0x8
+BYTE 0
+BYTE 152 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk49_png (_testatk49_png>>8) (_testatk49_png>>16) (_testatk49_png>>24) + 0x8
+BYTE 176 4 0 0
+BYTE 0
+BYTE 6 0 0 0x85
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 13 0 0 0x85
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 0 0 0 0x80
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 3 0 0 0x85
+BYTE 7 0 0 0x85
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testatk01_png (_testatk01_png>>8) (_testatk01_png>>16) (_testatk01_png>>24) + 0x8
+BYTE 24 0 0 0
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testatk02_png (_testatk02_png>>8) (_testatk02_png>>16) (_testatk02_png>>24) + 0x8
+BYTE 0
+BYTE 48 0 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testatk03_png (_testatk03_png>>8) (_testatk03_png>>16) (_testatk03_png>>24) + 0x8
+BYTE 72 0 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk04_png (_testatk04_png>>8) (_testatk04_png>>16) (_testatk04_png>>24) + 0x8
+BYTE 0
+BYTE 96 0 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk05_png (_testatk05_png>>8) (_testatk05_png>>16) (_testatk05_png>>24) + 0x8
+BYTE 120 0 0 0
+BYTE 0
+BYTE 72 0 0 0x85
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk06_png (_testatk06_png>>8) (_testatk06_png>>16) (_testatk06_png>>24) + 0x8
+BYTE 144 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk07_png (_testatk07_png>>8) (_testatk07_png>>16) (_testatk07_png>>24) + 0x8
+BYTE 0
+BYTE 168 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk08_png (_testatk08_png>>8) (_testatk08_png>>16) (_testatk08_png>>24) + 0x8
+BYTE 192 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk09_png (_testatk09_png>>8) (_testatk09_png>>16) (_testatk09_png>>24) + 0x8
+BYTE 0
+BYTE 216 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk10_png (_testatk10_png>>8) (_testatk10_png>>16) (_testatk10_png>>24) + 0x8
+BYTE 240 0 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk11_png (_testatk11_png>>8) (_testatk11_png>>16) (_testatk11_png>>24) + 0x8
+BYTE 0
+BYTE 8 1 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk12_png (_testatk12_png>>8) (_testatk12_png>>16) (_testatk12_png>>24) + 0x8
+BYTE 32 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk13_png (_testatk13_png>>8) (_testatk13_png>>16) (_testatk13_png>>24) + 0x8
+BYTE 0
+BYTE 56 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk14_png (_testatk14_png>>8) (_testatk14_png>>16) (_testatk14_png>>24) + 0x8
+BYTE 80 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk15_png (_testatk15_png>>8) (_testatk15_png>>16) (_testatk15_png>>24) + 0x8
+BYTE 0
+BYTE 104 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk16_png (_testatk16_png>>8) (_testatk16_png>>16) (_testatk16_png>>24) + 0x8
+BYTE 128 1 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk17_png (_testatk17_png>>8) (_testatk17_png>>16) (_testatk17_png>>24) + 0x8
+BYTE 0
+BYTE 152 1 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk18_png (_testatk18_png>>8) (_testatk18_png>>16) (_testatk18_png>>24) + 0x8
+BYTE 176 1 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk19_png (_testatk19_png>>8) (_testatk19_png>>16) (_testatk19_png>>24) + 0x8
+BYTE 0
+BYTE 200 1 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk20_png (_testatk20_png>>8) (_testatk20_png>>16) (_testatk20_png>>24) + 0x8
+BYTE 224 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk21_png (_testatk21_png>>8) (_testatk21_png>>16) (_testatk21_png>>24) + 0x8
+BYTE 0
+BYTE 248 1 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk22_png (_testatk22_png>>8) (_testatk22_png>>16) (_testatk22_png>>24) + 0x8
+BYTE 16 2 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk23_png (_testatk23_png>>8) (_testatk23_png>>16) (_testatk23_png>>24) + 0x8
+BYTE 0
+BYTE 40 2 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk24_png (_testatk24_png>>8) (_testatk24_png>>16) (_testatk24_png>>24) + 0x8
+BYTE 64 2 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk25_png (_testatk25_png>>8) (_testatk25_png>>16) (_testatk25_png>>24) + 0x8
+BYTE 0
+BYTE 88 2 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk26_png (_testatk26_png>>8) (_testatk26_png>>16) (_testatk26_png>>24) + 0x8
+BYTE 124 2 0 0
+BYTE 0
+BYTE 4 0 0 0x85
+BYTE 26 0 0 0x85
+BYTE 0
+BYTE 31 0 0 0x85
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk27_png (_testatk27_png>>8) (_testatk27_png>>16) (_testatk27_png>>24) + 0x8
+BYTE 160 2 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk28_png (_testatk28_png>>8) (_testatk28_png>>16) (_testatk28_png>>24) + 0x8
+BYTE 0
+BYTE 184 2 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk29_png (_testatk29_png>>8) (_testatk29_png>>16) (_testatk29_png>>24) + 0x8
+BYTE 208 2 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk30_png (_testatk30_png>>8) (_testatk30_png>>16) (_testatk30_png>>24) + 0x8
+BYTE 0
+BYTE 232 2 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk31_png (_testatk31_png>>8) (_testatk31_png>>16) (_testatk31_png>>24) + 0x8
+BYTE 0 3 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testatk32_png (_testatk32_png>>8) (_testatk32_png>>16) (_testatk32_png>>24) + 0x8
+BYTE 0
+BYTE 24 3 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testatk33_png (_testatk33_png>>8) (_testatk33_png>>16) (_testatk33_png>>24) + 0x8
+BYTE 48 3 0 0
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testatk34_png (_testatk34_png>>8) (_testatk34_png>>16) (_testatk34_png>>24) + 0x8
+BYTE 0
+BYTE 72 3 0 0
+BYTE 1 0 0 0x85
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk35_png (_testatk35_png>>8) (_testatk35_png>>16) (_testatk35_png>>24) + 0x8
+BYTE 0
+BYTE 96 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk36_png (_testatk36_png>>8) (_testatk36_png>>16) (_testatk36_png>>24) + 0x8
+BYTE 120 3 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk37_png (_testatk37_png>>8) (_testatk37_png>>16) (_testatk37_png>>24) + 0x8
+BYTE 0
+BYTE 144 3 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk38_png (_testatk38_png>>8) (_testatk38_png>>16) (_testatk38_png>>24) + 0x8
+BYTE 168 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk39_png (_testatk39_png>>8) (_testatk39_png>>16) (_testatk39_png>>24) + 0x8
+BYTE 0
+BYTE 192 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk40_png (_testatk40_png>>8) (_testatk40_png>>16) (_testatk40_png>>24) + 0x8
+BYTE 216 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk41_png (_testatk41_png>>8) (_testatk41_png>>16) (_testatk41_png>>24) + 0x8
+BYTE 0
+BYTE 240 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk42_png (_testatk42_png>>8) (_testatk42_png>>16) (_testatk42_png>>24) + 0x8
+BYTE 8 4 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk43_png (_testatk43_png>>8) (_testatk43_png>>16) (_testatk43_png>>24) + 0x8
+BYTE 0
+BYTE 32 4 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk44_png (_testatk44_png>>8) (_testatk44_png>>16) (_testatk44_png>>24) + 0x8
+BYTE 56 4 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk45_png (_testatk45_png>>8) (_testatk45_png>>16) (_testatk45_png>>24) + 0x8
+BYTE 0
+BYTE 80 4 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testatk46_png (_testatk46_png>>8) (_testatk46_png>>16) (_testatk46_png>>24) + 0x8
+BYTE 104 4 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk47_png (_testatk47_png>>8) (_testatk47_png>>16) (_testatk47_png>>24) + 0x8
+BYTE 0
+BYTE 128 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk48_png (_testatk48_png>>8) (_testatk48_png>>16) (_testatk48_png>>24) + 0x8
+BYTE 152 4 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk49_png (_testatk49_png>>8) (_testatk49_png>>16) (_testatk49_png>>24) + 0x8
+BYTE 0
+BYTE 176 4 0 0
+BYTE 6 0 0 0x85
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 13 0 0 0x85
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 0 0 0 0x80
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 3 0 0 0x85
+BYTE 0
+BYTE 7 0 0 0x85
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testatk01_png (_testatk01_png>>8) (_testatk01_png>>16) (_testatk01_png>>24) + 0x8
+BYTE 0
+BYTE 24 0 0 0
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testatk02_png (_testatk02_png>>8) (_testatk02_png>>16) (_testatk02_png>>24) + 0x8
+BYTE 48 0 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testatk03_png (_testatk03_png>>8) (_testatk03_png>>16) (_testatk03_png>>24) + 0x8
+BYTE 0
+BYTE 72 0 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk04_png (_testatk04_png>>8) (_testatk04_png>>16) (_testatk04_png>>24) + 0x8
+BYTE 96 0 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk05_png (_testatk05_png>>8) (_testatk05_png>>16) (_testatk05_png>>24) + 0x8
+BYTE 0
+BYTE 120 0 0 0
+BYTE 72 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk06_png (_testatk06_png>>8) (_testatk06_png>>16) (_testatk06_png>>24) + 0x8
+BYTE 0
+BYTE 144 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk07_png (_testatk07_png>>8) (_testatk07_png>>16) (_testatk07_png>>24) + 0x8
+BYTE 168 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk08_png (_testatk08_png>>8) (_testatk08_png>>16) (_testatk08_png>>24) + 0x8
+BYTE 0
+BYTE 192 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk09_png (_testatk09_png>>8) (_testatk09_png>>16) (_testatk09_png>>24) + 0x8
+BYTE 216 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk10_png (_testatk10_png>>8) (_testatk10_png>>16) (_testatk10_png>>24) + 0x8
+BYTE 0
+BYTE 240 0 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk11_png (_testatk11_png>>8) (_testatk11_png>>16) (_testatk11_png>>24) + 0x8
+BYTE 8 1 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk12_png (_testatk12_png>>8) (_testatk12_png>>16) (_testatk12_png>>24) + 0x8
+BYTE 0
+BYTE 32 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk13_png (_testatk13_png>>8) (_testatk13_png>>16) (_testatk13_png>>24) + 0x8
+BYTE 56 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk14_png (_testatk14_png>>8) (_testatk14_png>>16) (_testatk14_png>>24) + 0x8
+BYTE 0
+BYTE 80 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk15_png (_testatk15_png>>8) (_testatk15_png>>16) (_testatk15_png>>24) + 0x8
+BYTE 104 1 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit02_png (_testcrit02_png>>8) (_testcrit02_png>>16) (_testcrit02_png>>24) + 0x8
+BYTE 0
+BYTE 200 4 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testcrit02_png (_testcrit02_png>>8) (_testcrit02_png>>16) (_testcrit02_png>>24) + 0x8
+BYTE 200 4 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testcrit03_png (_testcrit03_png>>8) (_testcrit03_png>>16) (_testcrit03_png>>24) + 0x8
+BYTE 0
+BYTE 224 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit04_png (_testcrit04_png>>8) (_testcrit04_png>>16) (_testcrit04_png>>24) + 0x8
+BYTE 248 4 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit05_png (_testcrit05_png>>8) (_testcrit05_png>>16) (_testcrit05_png>>24) + 0x8
+BYTE 0
+BYTE 16 5 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testcrit06_png (_testcrit06_png>>8) (_testcrit06_png>>16) (_testcrit06_png>>24) + 0x8
+BYTE 40 5 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit07_png (_testcrit07_png>>8) (_testcrit07_png>>16) (_testcrit07_png>>24) + 0x8
+BYTE 0
+BYTE 64 5 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit08_png (_testcrit08_png>>8) (_testcrit08_png>>16) (_testcrit08_png>>24) + 0x8
+BYTE 100 5 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testcrit09_png (_testcrit09_png>>8) (_testcrit09_png>>16) (_testcrit09_png>>24) + 0x8
+BYTE 0
+BYTE 124 5 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testcrit10_png (_testcrit10_png>>8) (_testcrit10_png>>16) (_testcrit10_png>>24) + 0x8
+BYTE 148 5 0 0
+BYTE 0
+BYTE 12 0 0 0x86
+BYTE _testcrit11_png (_testcrit11_png>>8) (_testcrit11_png>>16) (_testcrit11_png>>24) + 0x8
+BYTE 0
+BYTE 172 5 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testcrit12_png (_testcrit12_png>>8) (_testcrit12_png>>16) (_testcrit12_png>>24) + 0x8
+BYTE 196 5 0 0
+BYTE 0
+BYTE 7 0 0 0x86
+BYTE _testcrit13_png (_testcrit13_png>>8) (_testcrit13_png>>16) (_testcrit13_png>>24) + 0x8
+BYTE 0
+BYTE 232 5 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit14_png (_testcrit14_png>>8) (_testcrit14_png>>16) (_testcrit14_png>>24) + 0x8
+BYTE 0 6 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit15_png (_testcrit15_png>>8) (_testcrit15_png>>16) (_testcrit15_png>>24) + 0x8
+BYTE 0
+BYTE 24 6 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testcrit16_png (_testcrit16_png>>8) (_testcrit16_png>>16) (_testcrit16_png>>24) + 0x8
+BYTE 48 6 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit17_png (_testcrit17_png>>8) (_testcrit17_png>>16) (_testcrit17_png>>24) + 0x8
+BYTE 0
+BYTE 72 6 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit18_png (_testcrit18_png>>8) (_testcrit18_png>>16) (_testcrit18_png>>24) + 0x8
+BYTE 96 6 0 0
+BYTE 0
+BYTE 24 0 0 0x86
+BYTE _testcrit19_png (_testcrit19_png>>8) (_testcrit19_png>>16) (_testcrit19_png>>24) + 0x8
+BYTE 0
+BYTE 120 6 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testcrit20_png (_testcrit20_png>>8) (_testcrit20_png>>16) (_testcrit20_png>>24) + 0x8
+BYTE 144 6 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit21_png (_testcrit21_png>>8) (_testcrit21_png>>16) (_testcrit21_png>>24) + 0x8
+BYTE 0
+BYTE 180 6 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testDodge_6_png (_testDodge_6_png>>8) (_testDodge_6_png>>16) (_testDodge_6_png>>24) + 0x8
+BYTE 216 6 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testDodge_7_png (_testDodge_7_png>>8) (_testDodge_7_png>>16) (_testDodge_7_png>>24) + 0x8
+BYTE 0
+BYTE 252 6 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit24_png (_testcrit24_png>>8) (_testcrit24_png>>16) (_testcrit24_png>>24) + 0x8
+BYTE 20 7 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit25_png (_testcrit25_png>>8) (_testcrit25_png>>16) (_testcrit25_png>>24) + 0x8
+BYTE 0
+BYTE 56 7 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit26_png (_testcrit26_png>>8) (_testcrit26_png>>16) (_testcrit26_png>>24) + 0x8
+BYTE 92 7 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit27_png (_testcrit27_png>>8) (_testcrit27_png>>16) (_testcrit27_png>>24) + 0x8
+BYTE 0
+BYTE 116 7 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit28_png (_testcrit28_png>>8) (_testcrit28_png>>16) (_testcrit28_png>>24) + 0x8
+BYTE 152 7 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit29_png (_testcrit29_png>>8) (_testcrit29_png>>16) (_testcrit29_png>>24) + 0x8
+BYTE 0
+BYTE 188 7 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit30_png (_testcrit30_png>>8) (_testcrit30_png>>16) (_testcrit30_png>>24) + 0x8
+BYTE 224 7 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit31_png (_testcrit31_png>>8) (_testcrit31_png>>16) (_testcrit31_png>>24) + 0x8
+BYTE 0
+BYTE 4 8 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit32_png (_testcrit32_png>>8) (_testcrit32_png>>16) (_testcrit32_png>>24) + 0x8
+BYTE 40 8 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit33_png (_testcrit33_png>>8) (_testcrit33_png>>16) (_testcrit33_png>>24) + 0x8
+BYTE 0
+BYTE 64 8 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit34_png (_testcrit34_png>>8) (_testcrit34_png>>16) (_testcrit34_png>>24) + 0x8
+BYTE 88 8 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testcrit35_png (_testcrit35_png>>8) (_testcrit35_png>>16) (_testcrit35_png>>24) + 0x8
+BYTE 0
+BYTE 112 8 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit36_png (_testcrit36_png>>8) (_testcrit36_png>>16) (_testcrit36_png>>24) + 0x8
+BYTE 136 8 0 0
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testcrit37_png (_testcrit37_png>>8) (_testcrit37_png>>16) (_testcrit37_png>>24) + 0x8
+BYTE 0
+BYTE 160 8 0 0
+BYTE 4 0 0 0x85
+BYTE 0
+BYTE 8 0 0 0x85
+BYTE 31 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit38_png (_testcrit38_png>>8) (_testcrit38_png>>16) (_testcrit38_png>>24) + 0x8
+BYTE 0
+BYTE 184 8 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit39_png (_testcrit39_png>>8) (_testcrit39_png>>16) (_testcrit39_png>>24) + 0x8
+BYTE 220 8 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testcrit40_png (_testcrit40_png>>8) (_testcrit40_png>>16) (_testcrit40_png>>24) + 0x8
+BYTE 0
+BYTE 0 9 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testcrit41_png (_testcrit41_png>>8) (_testcrit41_png>>16) (_testcrit41_png>>24) + 0x8
+BYTE 36 9 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testcrit42_png (_testcrit42_png>>8) (_testcrit42_png>>16) (_testcrit42_png>>24) + 0x8
+BYTE 0
+BYTE 72 9 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit43_png (_testcrit43_png>>8) (_testcrit43_png>>16) (_testcrit43_png>>24) + 0x8
+BYTE 108 9 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testcrit44_png (_testcrit44_png>>8) (_testcrit44_png>>16) (_testcrit44_png>>24) + 0x8
+BYTE 0
+BYTE 144 9 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit45_png (_testcrit45_png>>8) (_testcrit45_png>>16) (_testcrit45_png>>24) + 0x8
+BYTE 180 9 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testcrit46_png (_testcrit46_png>>8) (_testcrit46_png>>16) (_testcrit46_png>>24) + 0x8
+BYTE 0
+BYTE 216 9 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testcrit47_png (_testcrit47_png>>8) (_testcrit47_png>>16) (_testcrit47_png>>24) + 0x8
+BYTE 252 9 0 0
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testcrit48_png (_testcrit48_png>>8) (_testcrit48_png>>16) (_testcrit48_png>>24) + 0x8
+BYTE 0
+BYTE 32 10 0 0
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testcrit49_png (_testcrit49_png>>8) (_testcrit49_png>>16) (_testcrit49_png>>24) + 0x8
+BYTE 68 10 0 0
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testcrit50_png (_testcrit50_png>>8) (_testcrit50_png>>16) (_testcrit50_png>>24) + 0x8
+BYTE 0
+BYTE 92 10 0 0
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testcrit51_png (_testcrit51_png>>8) (_testcrit51_png>>16) (_testcrit51_png>>24) + 0x8
+BYTE 116 10 0 0
+BYTE 0
+BYTE 20 0 0 0x86
+BYTE _testcrit52_png (_testcrit52_png>>8) (_testcrit52_png>>16) (_testcrit52_png>>24) + 0x8
+BYTE 0
+BYTE 140 10 0 0
+BYTE 1 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit53_png (_testcrit53_png>>8) (_testcrit53_png>>16) (_testcrit53_png>>24) + 0x8
+BYTE 0
+BYTE 164 10 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk36_png (_testatk36_png>>8) (_testatk36_png>>16) (_testatk36_png>>24) + 0x8
+BYTE 120 3 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk37_png (_testatk37_png>>8) (_testatk37_png>>16) (_testatk37_png>>24) + 0x8
+BYTE 0
+BYTE 144 3 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk38_png (_testatk38_png>>8) (_testatk38_png>>16) (_testatk38_png>>24) + 0x8
+BYTE 168 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk39_png (_testatk39_png>>8) (_testatk39_png>>16) (_testatk39_png>>24) + 0x8
+BYTE 0
+BYTE 192 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk40_png (_testatk40_png>>8) (_testatk40_png>>16) (_testatk40_png>>24) + 0x8
+BYTE 216 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk41_png (_testatk41_png>>8) (_testatk41_png>>16) (_testatk41_png>>24) + 0x8
+BYTE 0
+BYTE 240 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk42_png (_testatk42_png>>8) (_testatk42_png>>16) (_testatk42_png>>24) + 0x8
+BYTE 8 4 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk43_png (_testatk43_png>>8) (_testatk43_png>>16) (_testatk43_png>>24) + 0x8
+BYTE 0
+BYTE 32 4 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk44_png (_testatk44_png>>8) (_testatk44_png>>16) (_testatk44_png>>24) + 0x8
+BYTE 56 4 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk45_png (_testatk45_png>>8) (_testatk45_png>>16) (_testatk45_png>>24) + 0x8
+BYTE 0
+BYTE 80 4 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testatk46_png (_testatk46_png>>8) (_testatk46_png>>16) (_testatk46_png>>24) + 0x8
+BYTE 104 4 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk47_png (_testatk47_png>>8) (_testatk47_png>>16) (_testatk47_png>>24) + 0x8
+BYTE 0
+BYTE 128 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk48_png (_testatk48_png>>8) (_testatk48_png>>16) (_testatk48_png>>24) + 0x8
+BYTE 152 4 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk49_png (_testatk49_png>>8) (_testatk49_png>>16) (_testatk49_png>>24) + 0x8
+BYTE 0
+BYTE 176 4 0 0
+BYTE 6 0 0 0x85
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 13 0 0 0x85
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 0 0 0 0x80
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 3 0 0 0x85
+BYTE 0
+BYTE 7 0 0 0x85
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testatk01_png (_testatk01_png>>8) (_testatk01_png>>16) (_testatk01_png>>24) + 0x8
+BYTE 0
+BYTE 24 0 0 0
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testatk02_png (_testatk02_png>>8) (_testatk02_png>>16) (_testatk02_png>>24) + 0x8
+BYTE 48 0 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testatk03_png (_testatk03_png>>8) (_testatk03_png>>16) (_testatk03_png>>24) + 0x8
+BYTE 0
+BYTE 72 0 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk04_png (_testatk04_png>>8) (_testatk04_png>>16) (_testatk04_png>>24) + 0x8
+BYTE 96 0 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk05_png (_testatk05_png>>8) (_testatk05_png>>16) (_testatk05_png>>24) + 0x8
+BYTE 0
+BYTE 120 0 0 0
+BYTE 72 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk06_png (_testatk06_png>>8) (_testatk06_png>>16) (_testatk06_png>>24) + 0x8
+BYTE 0
+BYTE 144 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk07_png (_testatk07_png>>8) (_testatk07_png>>16) (_testatk07_png>>24) + 0x8
+BYTE 168 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk08_png (_testatk08_png>>8) (_testatk08_png>>16) (_testatk08_png>>24) + 0x8
+BYTE 0
+BYTE 192 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk09_png (_testatk09_png>>8) (_testatk09_png>>16) (_testatk09_png>>24) + 0x8
+BYTE 216 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk10_png (_testatk10_png>>8) (_testatk10_png>>16) (_testatk10_png>>24) + 0x8
+BYTE 0
+BYTE 240 0 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk11_png (_testatk11_png>>8) (_testatk11_png>>16) (_testatk11_png>>24) + 0x8
+BYTE 8 1 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk12_png (_testatk12_png>>8) (_testatk12_png>>16) (_testatk12_png>>24) + 0x8
+BYTE 0
+BYTE 32 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk13_png (_testatk13_png>>8) (_testatk13_png>>16) (_testatk13_png>>24) + 0x8
+BYTE 56 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk14_png (_testatk14_png>>8) (_testatk14_png>>16) (_testatk14_png>>24) + 0x8
+BYTE 0
+BYTE 80 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk15_png (_testatk15_png>>8) (_testatk15_png>>16) (_testatk15_png>>24) + 0x8
+BYTE 104 1 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit02_png (_testcrit02_png>>8) (_testcrit02_png>>16) (_testcrit02_png>>24) + 0x8
+BYTE 0
+BYTE 200 4 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testcrit02_png (_testcrit02_png>>8) (_testcrit02_png>>16) (_testcrit02_png>>24) + 0x8
+BYTE 200 4 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testcrit03_png (_testcrit03_png>>8) (_testcrit03_png>>16) (_testcrit03_png>>24) + 0x8
+BYTE 0
+BYTE 224 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit04_png (_testcrit04_png>>8) (_testcrit04_png>>16) (_testcrit04_png>>24) + 0x8
+BYTE 248 4 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit05_png (_testcrit05_png>>8) (_testcrit05_png>>16) (_testcrit05_png>>24) + 0x8
+BYTE 0
+BYTE 16 5 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testcrit06_png (_testcrit06_png>>8) (_testcrit06_png>>16) (_testcrit06_png>>24) + 0x8
+BYTE 40 5 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit07_png (_testcrit07_png>>8) (_testcrit07_png>>16) (_testcrit07_png>>24) + 0x8
+BYTE 0
+BYTE 64 5 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit08_png (_testcrit08_png>>8) (_testcrit08_png>>16) (_testcrit08_png>>24) + 0x8
+BYTE 100 5 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testcrit09_png (_testcrit09_png>>8) (_testcrit09_png>>16) (_testcrit09_png>>24) + 0x8
+BYTE 0
+BYTE 124 5 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testcrit10_png (_testcrit10_png>>8) (_testcrit10_png>>16) (_testcrit10_png>>24) + 0x8
+BYTE 148 5 0 0
+BYTE 0
+BYTE 12 0 0 0x86
+BYTE _testcrit11_png (_testcrit11_png>>8) (_testcrit11_png>>16) (_testcrit11_png>>24) + 0x8
+BYTE 0
+BYTE 172 5 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testcrit12_png (_testcrit12_png>>8) (_testcrit12_png>>16) (_testcrit12_png>>24) + 0x8
+BYTE 196 5 0 0
+BYTE 0
+BYTE 7 0 0 0x86
+BYTE _testcrit13_png (_testcrit13_png>>8) (_testcrit13_png>>16) (_testcrit13_png>>24) + 0x8
+BYTE 0
+BYTE 232 5 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit14_png (_testcrit14_png>>8) (_testcrit14_png>>16) (_testcrit14_png>>24) + 0x8
+BYTE 0 6 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit15_png (_testcrit15_png>>8) (_testcrit15_png>>16) (_testcrit15_png>>24) + 0x8
+BYTE 0
+BYTE 24 6 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testcrit16_png (_testcrit16_png>>8) (_testcrit16_png>>16) (_testcrit16_png>>24) + 0x8
+BYTE 48 6 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit17_png (_testcrit17_png>>8) (_testcrit17_png>>16) (_testcrit17_png>>24) + 0x8
+BYTE 0
+BYTE 72 6 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit18_png (_testcrit18_png>>8) (_testcrit18_png>>16) (_testcrit18_png>>24) + 0x8
+BYTE 96 6 0 0
+BYTE 0
+BYTE 24 0 0 0x86
+BYTE _testcrit19_png (_testcrit19_png>>8) (_testcrit19_png>>16) (_testcrit19_png>>24) + 0x8
+BYTE 0
+BYTE 120 6 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testcrit20_png (_testcrit20_png>>8) (_testcrit20_png>>16) (_testcrit20_png>>24) + 0x8
+BYTE 144 6 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit21_png (_testcrit21_png>>8) (_testcrit21_png>>16) (_testcrit21_png>>24) + 0x8
+BYTE 0
+BYTE 180 6 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testDodge_6_png (_testDodge_6_png>>8) (_testDodge_6_png>>16) (_testDodge_6_png>>24) + 0x8
+BYTE 216 6 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testDodge_7_png (_testDodge_7_png>>8) (_testDodge_7_png>>16) (_testDodge_7_png>>24) + 0x8
+BYTE 0
+BYTE 252 6 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit24_png (_testcrit24_png>>8) (_testcrit24_png>>16) (_testcrit24_png>>24) + 0x8
+BYTE 20 7 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit25_png (_testcrit25_png>>8) (_testcrit25_png>>16) (_testcrit25_png>>24) + 0x8
+BYTE 0
+BYTE 56 7 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit26_png (_testcrit26_png>>8) (_testcrit26_png>>16) (_testcrit26_png>>24) + 0x8
+BYTE 92 7 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit27_png (_testcrit27_png>>8) (_testcrit27_png>>16) (_testcrit27_png>>24) + 0x8
+BYTE 0
+BYTE 116 7 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit28_png (_testcrit28_png>>8) (_testcrit28_png>>16) (_testcrit28_png>>24) + 0x8
+BYTE 152 7 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit29_png (_testcrit29_png>>8) (_testcrit29_png>>16) (_testcrit29_png>>24) + 0x8
+BYTE 0
+BYTE 188 7 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit30_png (_testcrit30_png>>8) (_testcrit30_png>>16) (_testcrit30_png>>24) + 0x8
+BYTE 224 7 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit31_png (_testcrit31_png>>8) (_testcrit31_png>>16) (_testcrit31_png>>24) + 0x8
+BYTE 0
+BYTE 4 8 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit32_png (_testcrit32_png>>8) (_testcrit32_png>>16) (_testcrit32_png>>24) + 0x8
+BYTE 40 8 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testcrit33_png (_testcrit33_png>>8) (_testcrit33_png>>16) (_testcrit33_png>>24) + 0x8
+BYTE 0
+BYTE 64 8 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit34_png (_testcrit34_png>>8) (_testcrit34_png>>16) (_testcrit34_png>>24) + 0x8
+BYTE 88 8 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testcrit35_png (_testcrit35_png>>8) (_testcrit35_png>>16) (_testcrit35_png>>24) + 0x8
+BYTE 0
+BYTE 112 8 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit36_png (_testcrit36_png>>8) (_testcrit36_png>>16) (_testcrit36_png>>24) + 0x8
+BYTE 136 8 0 0
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testcrit37_png (_testcrit37_png>>8) (_testcrit37_png>>16) (_testcrit37_png>>24) + 0x8
+BYTE 0
+BYTE 160 8 0 0
+BYTE 4 0 0 0x85
+BYTE 0
+BYTE 8 0 0 0x85
+BYTE 31 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit38_png (_testcrit38_png>>8) (_testcrit38_png>>16) (_testcrit38_png>>24) + 0x8
+BYTE 0
+BYTE 184 8 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testcrit39_png (_testcrit39_png>>8) (_testcrit39_png>>16) (_testcrit39_png>>24) + 0x8
+BYTE 220 8 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testcrit40_png (_testcrit40_png>>8) (_testcrit40_png>>16) (_testcrit40_png>>24) + 0x8
+BYTE 0
+BYTE 0 9 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testcrit41_png (_testcrit41_png>>8) (_testcrit41_png>>16) (_testcrit41_png>>24) + 0x8
+BYTE 36 9 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testcrit42_png (_testcrit42_png>>8) (_testcrit42_png>>16) (_testcrit42_png>>24) + 0x8
+BYTE 0
+BYTE 72 9 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit43_png (_testcrit43_png>>8) (_testcrit43_png>>16) (_testcrit43_png>>24) + 0x8
+BYTE 108 9 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testcrit44_png (_testcrit44_png>>8) (_testcrit44_png>>16) (_testcrit44_png>>24) + 0x8
+BYTE 0
+BYTE 144 9 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testcrit45_png (_testcrit45_png>>8) (_testcrit45_png>>16) (_testcrit45_png>>24) + 0x8
+BYTE 180 9 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testcrit46_png (_testcrit46_png>>8) (_testcrit46_png>>16) (_testcrit46_png>>24) + 0x8
+BYTE 0
+BYTE 216 9 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testcrit47_png (_testcrit47_png>>8) (_testcrit47_png>>16) (_testcrit47_png>>24) + 0x8
+BYTE 252 9 0 0
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testcrit48_png (_testcrit48_png>>8) (_testcrit48_png>>16) (_testcrit48_png>>24) + 0x8
+BYTE 0
+BYTE 32 10 0 0
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testcrit49_png (_testcrit49_png>>8) (_testcrit49_png>>16) (_testcrit49_png>>24) + 0x8
+BYTE 68 10 0 0
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testcrit50_png (_testcrit50_png>>8) (_testcrit50_png>>16) (_testcrit50_png>>24) + 0x8
+BYTE 0
+BYTE 92 10 0 0
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testcrit51_png (_testcrit51_png>>8) (_testcrit51_png>>16) (_testcrit51_png>>24) + 0x8
+BYTE 116 10 0 0
+BYTE 0
+BYTE 20 0 0 0x86
+BYTE _testcrit52_png (_testcrit52_png>>8) (_testcrit52_png>>16) (_testcrit52_png>>24) + 0x8
+BYTE 0
+BYTE 140 10 0 0
+BYTE 1 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testcrit53_png (_testcrit53_png>>8) (_testcrit53_png>>16) (_testcrit53_png>>24) + 0x8
+BYTE 0
+BYTE 164 10 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk36_png (_testatk36_png>>8) (_testatk36_png>>16) (_testatk36_png>>24) + 0x8
+BYTE 120 3 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk37_png (_testatk37_png>>8) (_testatk37_png>>16) (_testatk37_png>>24) + 0x8
+BYTE 0
+BYTE 144 3 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk38_png (_testatk38_png>>8) (_testatk38_png>>16) (_testatk38_png>>24) + 0x8
+BYTE 168 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk39_png (_testatk39_png>>8) (_testatk39_png>>16) (_testatk39_png>>24) + 0x8
+BYTE 0
+BYTE 192 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk40_png (_testatk40_png>>8) (_testatk40_png>>16) (_testatk40_png>>24) + 0x8
+BYTE 216 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk41_png (_testatk41_png>>8) (_testatk41_png>>16) (_testatk41_png>>24) + 0x8
+BYTE 0
+BYTE 240 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk42_png (_testatk42_png>>8) (_testatk42_png>>16) (_testatk42_png>>24) + 0x8
+BYTE 8 4 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk43_png (_testatk43_png>>8) (_testatk43_png>>16) (_testatk43_png>>24) + 0x8
+BYTE 0
+BYTE 32 4 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk44_png (_testatk44_png>>8) (_testatk44_png>>16) (_testatk44_png>>24) + 0x8
+BYTE 56 4 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk45_png (_testatk45_png>>8) (_testatk45_png>>16) (_testatk45_png>>24) + 0x8
+BYTE 0
+BYTE 80 4 0 0
+BYTE 6 0 0 0x86
+BYTE 0
+BYTE _testatk46_png (_testatk46_png>>8) (_testatk46_png>>16) (_testatk46_png>>24) + 0x8
+BYTE 104 4 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk47_png (_testatk47_png>>8) (_testatk47_png>>16) (_testatk47_png>>24) + 0x8
+BYTE 0
+BYTE 128 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk48_png (_testatk48_png>>8) (_testatk48_png>>16) (_testatk48_png>>24) + 0x8
+BYTE 152 4 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk49_png (_testatk49_png>>8) (_testatk49_png>>16) (_testatk49_png>>24) + 0x8
+BYTE 0
+BYTE 176 4 0 0
+BYTE 6 0 0 0x85
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 13 0 0 0x85
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 0 0 0 0x80
+BYTE 0
+BYTE 3 0 0 0x85
+BYTE 7 0 0 0x85
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 5 0 0 0x85
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 1 0 0 0x85
+BYTE 0
+BYTE 6 0 0 0x85
+BYTE 13 0 0 0x85
+BYTE 0
+BYTE 0 0 0 0x80
+BYTE 3 0 0 0x85
+BYTE 0
+BYTE 7 0 0 0x85
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 5 0 0 0x85
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 1 0 0 0x85
+BYTE 6 0 0 0x85
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 13 0 0 0x85
+BYTE 0
+BYTE 0 0 0 0x80
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 24 0 0 0x85
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 14 0 0 0x85
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testDodge_1_png (_testDodge_1_png>>8) (_testDodge_1_png>>16) (_testDodge_1_png>>24) + 0x8
+BYTE 188 10 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testDodge_2_png (_testDodge_2_png>>8) (_testDodge_2_png>>16) (_testDodge_2_png>>24) + 0x8
+BYTE 0
+BYTE 212 10 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testDodge_3_png (_testDodge_3_png>>8) (_testDodge_3_png>>16) (_testDodge_3_png>>24) + 0x8
+BYTE 236 10 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testDodge_4_png (_testDodge_4_png>>8) (_testDodge_4_png>>16) (_testDodge_4_png>>24) + 0x8
+BYTE 0
+BYTE 4 11 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testDodge_5_png (_testDodge_5_png>>8) (_testDodge_5_png>>16) (_testDodge_5_png>>24) + 0x8
+BYTE 28 11 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testDodge_6_png (_testDodge_6_png>>8) (_testDodge_6_png>>16) (_testDodge_6_png>>24) + 0x8
+BYTE 0
+BYTE 216 6 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testDodge_7_png (_testDodge_7_png>>8) (_testDodge_7_png>>16) (_testDodge_7_png>>24) + 0x8
+BYTE 252 6 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testDodge_8_png (_testDodge_8_png>>8) (_testDodge_8_png>>16) (_testDodge_8_png>>24) + 0x8
+BYTE 0
+BYTE 52 11 0 0
+BYTE 1 0 0 0x85
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testDodge_8_png (_testDodge_8_png>>8) (_testDodge_8_png>>16) (_testDodge_8_png>>24) + 0x8
+BYTE 0
+BYTE 52 11 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testDodge_9_png (_testDodge_9_png>>8) (_testDodge_9_png>>16) (_testDodge_9_png>>24) + 0x8
+BYTE 64 11 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testDodge_10_png (_testDodge_10_png>>8) (_testDodge_10_png>>16) (_testDodge_10_png>>24) + 0x8
+BYTE 0
+BYTE 88 11 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testDodge_11_png (_testDodge_11_png>>8) (_testDodge_11_png>>16) (_testDodge_11_png>>24) + 0x8
+BYTE 112 11 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testDodge_12_png (_testDodge_12_png>>8) (_testDodge_12_png>>16) (_testDodge_12_png>>24) + 0x8
+BYTE 0
+BYTE 136 11 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testDodge_13_png (_testDodge_13_png>>8) (_testDodge_13_png>>16) (_testDodge_13_png>>24) + 0x8
+BYTE 160 11 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testDodge_14_png (_testDodge_14_png>>8) (_testDodge_14_png>>16) (_testDodge_14_png>>24) + 0x8
+BYTE 0
+BYTE 184 11 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 13 0 0 0x85
+BYTE 0 0 0 0x80
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 24 0 0 0x85
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 14 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testDodge_1_png (_testDodge_1_png>>8) (_testDodge_1_png>>16) (_testDodge_1_png>>24) + 0x8
+BYTE 0
+BYTE 188 10 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testDodge_2_png (_testDodge_2_png>>8) (_testDodge_2_png>>16) (_testDodge_2_png>>24) + 0x8
+BYTE 212 10 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testDodge_3_png (_testDodge_3_png>>8) (_testDodge_3_png>>16) (_testDodge_3_png>>24) + 0x8
+BYTE 0
+BYTE 236 10 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testDodge_4_png (_testDodge_4_png>>8) (_testDodge_4_png>>16) (_testDodge_4_png>>24) + 0x8
+BYTE 4 11 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testDodge_5_png (_testDodge_5_png>>8) (_testDodge_5_png>>16) (_testDodge_5_png>>24) + 0x8
+BYTE 0
+BYTE 28 11 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testDodge_6_png (_testDodge_6_png>>8) (_testDodge_6_png>>16) (_testDodge_6_png>>24) + 0x8
+BYTE 216 6 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testDodge_7_png (_testDodge_7_png>>8) (_testDodge_7_png>>16) (_testDodge_7_png>>24) + 0x8
+BYTE 0
+BYTE 252 6 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testDodge_8_png (_testDodge_8_png>>8) (_testDodge_8_png>>16) (_testDodge_8_png>>24) + 0x8
+BYTE 52 11 0 0
+BYTE 0
+BYTE 1 0 0 0x85
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testDodge_8_png (_testDodge_8_png>>8) (_testDodge_8_png>>16) (_testDodge_8_png>>24) + 0x8
+BYTE 52 11 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testDodge_9_png (_testDodge_9_png>>8) (_testDodge_9_png>>16) (_testDodge_9_png>>24) + 0x8
+BYTE 0
+BYTE 64 11 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testDodge_10_png (_testDodge_10_png>>8) (_testDodge_10_png>>16) (_testDodge_10_png>>24) + 0x8
+BYTE 88 11 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testDodge_11_png (_testDodge_11_png>>8) (_testDodge_11_png>>16) (_testDodge_11_png>>24) + 0x8
+BYTE 0
+BYTE 112 11 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testDodge_12_png (_testDodge_12_png>>8) (_testDodge_12_png>>16) (_testDodge_12_png>>24) + 0x8
+BYTE 136 11 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testDodge_13_png (_testDodge_13_png>>8) (_testDodge_13_png>>16) (_testDodge_13_png>>24) + 0x8
+BYTE 0
+BYTE 160 11 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testDodge_14_png (_testDodge_14_png>>8) (_testDodge_14_png>>16) (_testDodge_14_png>>24) + 0x8
+BYTE 184 11 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 13 0 0 0x85
+BYTE 0
+BYTE 0 0 0 0x80
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testUnsheathe_1_png (_testUnsheathe_1_png>>8) (_testUnsheathe_1_png>>16) (_testUnsheathe_1_png>>24) + 0x8
+BYTE 208 11 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testUnsheathe_2_png (_testUnsheathe_2_png>>8) (_testUnsheathe_2_png>>16) (_testUnsheathe_2_png>>24) + 0x8
+BYTE 0
+BYTE 232 11 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testUnsheathe_3_png (_testUnsheathe_3_png>>8) (_testUnsheathe_3_png>>16) (_testUnsheathe_3_png>>24) + 0x8
+BYTE 0 12 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testUnsheathe_4_png (_testUnsheathe_4_png>>8) (_testUnsheathe_4_png>>16) (_testUnsheathe_4_png>>24) + 0x8
+BYTE 0
+BYTE 24 12 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testUnsheathe_5_png (_testUnsheathe_5_png>>8) (_testUnsheathe_5_png>>16) (_testUnsheathe_5_png>>24) + 0x8
+BYTE 48 12 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testUnsheathe_6_png (_testUnsheathe_6_png>>8) (_testUnsheathe_6_png>>16) (_testUnsheathe_6_png>>24) + 0x8
+BYTE 0
+BYTE 72 12 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testUnsheathe_7_png (_testUnsheathe_7_png>>8) (_testUnsheathe_7_png>>16) (_testUnsheathe_7_png>>24) + 0x8
+BYTE 96 12 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 0 0 0 0x80
+BYTE 0
+BYTE 8 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 1 0 0 0x85
+BYTE 0
+BYTE 0 0 0 0x80
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testUnsheathe_1_png (_testUnsheathe_1_png>>8) (_testUnsheathe_1_png>>16) (_testUnsheathe_1_png>>24) + 0x8
+BYTE 208 11 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testUnsheathe_2_png (_testUnsheathe_2_png>>8) (_testUnsheathe_2_png>>16) (_testUnsheathe_2_png>>24) + 0x8
+BYTE 0
+BYTE 232 11 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testUnsheathe_3_png (_testUnsheathe_3_png>>8) (_testUnsheathe_3_png>>16) (_testUnsheathe_3_png>>24) + 0x8
+BYTE 0 12 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testUnsheathe_4_png (_testUnsheathe_4_png>>8) (_testUnsheathe_4_png>>16) (_testUnsheathe_4_png>>24) + 0x8
+BYTE 0
+BYTE 24 12 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testUnsheathe_5_png (_testUnsheathe_5_png>>8) (_testUnsheathe_5_png>>16) (_testUnsheathe_5_png>>24) + 0x8
+BYTE 48 12 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testUnsheathe_6_png (_testUnsheathe_6_png>>8) (_testUnsheathe_6_png>>16) (_testUnsheathe_6_png>>24) + 0x8
+BYTE 0
+BYTE 72 12 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testUnsheathe_7_png (_testUnsheathe_7_png>>8) (_testUnsheathe_7_png>>16) (_testUnsheathe_7_png>>24) + 0x8
+BYTE 96 12 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 0 0 0 0x80
+BYTE 0
+BYTE 10 0 0 0x86
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0
+BYTE 0 0 0 0
+BYTE 3 0 0 0x85
+BYTE 0
+BYTE 7 0 0 0x85
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testatk01_png (_testatk01_png>>8) (_testatk01_png>>16) (_testatk01_png>>24) + 0x8
+BYTE 0
+BYTE 24 0 0 0
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testatk02_png (_testatk02_png>>8) (_testatk02_png>>16) (_testatk02_png>>24) + 0x8
+BYTE 48 0 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testatk03_png (_testatk03_png>>8) (_testatk03_png>>16) (_testatk03_png>>24) + 0x8
+BYTE 0
+BYTE 72 0 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk04_png (_testatk04_png>>8) (_testatk04_png>>16) (_testatk04_png>>24) + 0x8
+BYTE 96 0 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk05_png (_testatk05_png>>8) (_testatk05_png>>16) (_testatk05_png>>24) + 0x8
+BYTE 0
+BYTE 120 0 0 0
+BYTE 72 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk06_png (_testatk06_png>>8) (_testatk06_png>>16) (_testatk06_png>>24) + 0x8
+BYTE 0
+BYTE 144 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk07_png (_testatk07_png>>8) (_testatk07_png>>16) (_testatk07_png>>24) + 0x8
+BYTE 168 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk08_png (_testatk08_png>>8) (_testatk08_png>>16) (_testatk08_png>>24) + 0x8
+BYTE 0
+BYTE 192 0 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk09_png (_testatk09_png>>8) (_testatk09_png>>16) (_testatk09_png>>24) + 0x8
+BYTE 216 0 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk10_png (_testatk10_png>>8) (_testatk10_png>>16) (_testatk10_png>>24) + 0x8
+BYTE 0
+BYTE 240 0 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk11_png (_testatk11_png>>8) (_testatk11_png>>16) (_testatk11_png>>24) + 0x8
+BYTE 8 1 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk12_png (_testatk12_png>>8) (_testatk12_png>>16) (_testatk12_png>>24) + 0x8
+BYTE 0
+BYTE 32 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk13_png (_testatk13_png>>8) (_testatk13_png>>16) (_testatk13_png>>24) + 0x8
+BYTE 56 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk14_png (_testatk14_png>>8) (_testatk14_png>>16) (_testatk14_png>>24) + 0x8
+BYTE 0
+BYTE 80 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk15_png (_testatk15_png>>8) (_testatk15_png>>16) (_testatk15_png>>24) + 0x8
+BYTE 104 1 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk16_png (_testatk16_png>>8) (_testatk16_png>>16) (_testatk16_png>>24) + 0x8
+BYTE 0
+BYTE 128 1 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk17_png (_testatk17_png>>8) (_testatk17_png>>16) (_testatk17_png>>24) + 0x8
+BYTE 152 1 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk18_png (_testatk18_png>>8) (_testatk18_png>>16) (_testatk18_png>>24) + 0x8
+BYTE 0
+BYTE 176 1 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk19_png (_testatk19_png>>8) (_testatk19_png>>16) (_testatk19_png>>24) + 0x8
+BYTE 200 1 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk20_png (_testatk20_png>>8) (_testatk20_png>>16) (_testatk20_png>>24) + 0x8
+BYTE 0
+BYTE 224 1 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk21_png (_testatk21_png>>8) (_testatk21_png>>16) (_testatk21_png>>24) + 0x8
+BYTE 248 1 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk22_png (_testatk22_png>>8) (_testatk22_png>>16) (_testatk22_png>>24) + 0x8
+BYTE 0
+BYTE 16 2 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk23_png (_testatk23_png>>8) (_testatk23_png>>16) (_testatk23_png>>24) + 0x8
+BYTE 40 2 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk24_png (_testatk24_png>>8) (_testatk24_png>>16) (_testatk24_png>>24) + 0x8
+BYTE 0
+BYTE 64 2 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk25_png (_testatk25_png>>8) (_testatk25_png>>16) (_testatk25_png>>24) + 0x8
+BYTE 88 2 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk26_png (_testatk26_png>>8) (_testatk26_png>>16) (_testatk26_png>>24) + 0x8
+BYTE 0
+BYTE 124 2 0 0
+BYTE 4 0 0 0x85
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk27_png (_testatk27_png>>8) (_testatk27_png>>16) (_testatk27_png>>24) + 0x8
+BYTE 0
+BYTE 160 2 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk28_png (_testatk28_png>>8) (_testatk28_png>>16) (_testatk28_png>>24) + 0x8
+BYTE 184 2 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk29_png (_testatk29_png>>8) (_testatk29_png>>16) (_testatk29_png>>24) + 0x8
+BYTE 0
+BYTE 208 2 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk30_png (_testatk30_png>>8) (_testatk30_png>>16) (_testatk30_png>>24) + 0x8
+BYTE 232 2 0 0
+BYTE 0
+BYTE 4 0 0 0x86
+BYTE _testatk31_png (_testatk31_png>>8) (_testatk31_png>>16) (_testatk31_png>>24) + 0x8
+BYTE 0
+BYTE 0 3 0 0
+BYTE 5 0 0 0x86
+BYTE 0
+BYTE _testatk32_png (_testatk32_png>>8) (_testatk32_png>>16) (_testatk32_png>>24) + 0x8
+BYTE 24 3 0 0
+BYTE 0
+BYTE 5 0 0 0x86
+BYTE _testatk33_png (_testatk33_png>>8) (_testatk33_png>>16) (_testatk33_png>>24) + 0x8
+BYTE 0
+BYTE 48 3 0 0
+BYTE 8 0 0 0x86
+BYTE 0
+BYTE _testatk34_png (_testatk34_png>>8) (_testatk34_png>>16) (_testatk34_png>>24) + 0x8
+BYTE 72 3 0 0
+BYTE 0
+BYTE 1 0 0 0x85
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk35_png (_testatk35_png>>8) (_testatk35_png>>16) (_testatk35_png>>24) + 0x8
+BYTE 96 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk36_png (_testatk36_png>>8) (_testatk36_png>>16) (_testatk36_png>>24) + 0x8
+BYTE 0
+BYTE 120 3 0 0
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk37_png (_testatk37_png>>8) (_testatk37_png>>16) (_testatk37_png>>24) + 0x8
+BYTE 144 3 0 0
+BYTE 0
+BYTE 1 0 0 0x86
+BYTE _testatk38_png (_testatk38_png>>8) (_testatk38_png>>16) (_testatk38_png>>24) + 0x8
+BYTE 0
+BYTE 168 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk39_png (_testatk39_png>>8) (_testatk39_png>>16) (_testatk39_png>>24) + 0x8
+BYTE 192 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk40_png (_testatk40_png>>8) (_testatk40_png>>16) (_testatk40_png>>24) + 0x8
+BYTE 0
+BYTE 216 3 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk41_png (_testatk41_png>>8) (_testatk41_png>>16) (_testatk41_png>>24) + 0x8
+BYTE 240 3 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk42_png (_testatk42_png>>8) (_testatk42_png>>16) (_testatk42_png>>24) + 0x8
+BYTE 0
+BYTE 8 4 0 0
+BYTE 2 0 0 0x86
+BYTE 0
+BYTE _testatk43_png (_testatk43_png>>8) (_testatk43_png>>16) (_testatk43_png>>24) + 0x8
+BYTE 32 4 0 0
+BYTE 0
+BYTE 2 0 0 0x86
+BYTE _testatk44_png (_testatk44_png>>8) (_testatk44_png>>16) (_testatk44_png>>24) + 0x8
+BYTE 0
+BYTE 56 4 0 0
+BYTE 4 0 0 0x86
+BYTE 0
+BYTE _testatk45_png (_testatk45_png>>8) (_testatk45_png>>16) (_testatk45_png>>24) + 0x8
+BYTE 80 4 0 0
+BYTE 0
+BYTE 6 0 0 0x86
+BYTE _testatk46_png (_testatk46_png>>8) (_testatk46_png>>16) (_testatk46_png>>24) + 0x8
+BYTE 0
+BYTE 104 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk47_png (_testatk47_png>>8) (_testatk47_png>>16) (_testatk47_png>>24) + 0x8
+BYTE 128 4 0 0
+BYTE 0
+BYTE 3 0 0 0x86
+BYTE _testatk48_png (_testatk48_png>>8) (_testatk48_png>>16) (_testatk48_png>>24) + 0x8
+BYTE 0
+BYTE 152 4 0 0
+BYTE 3 0 0 0x86
+BYTE 0
+BYTE _testatk49_png (_testatk49_png>>8) (_testatk49_png>>16) (_testatk49_png>>24) + 0x8
+BYTE 176 4 0 0
+BYTE 0
+BYTE 6 0 0 0x85
+BYTE 10 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 13 0 0 0x85
+BYTE 1 0 0 0x86
+BYTE 0
+BYTE _testatk00_png (_testatk00_png>>8) (_testatk00_png>>16) (_testatk00_png>>24) + 0x8
+BYTE 0 0 0 0
+BYTE 0
+BYTE 0 0 0 0x80

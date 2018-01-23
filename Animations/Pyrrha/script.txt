@@ -1,0 +1,169 @@
+//begin Mode 1
+C03
+C07
+1  p- Standing-1.png
+2  p- Attack-1.png
+C1B
+2  p- Attack-2.png
+2  p- Attack-3.png
+2  p- Attack-4.png
+6  p- Attack-5.png
+5  p- Attack-6.png
+5  p- Attack-7.png
+5  p- Attack-8.png
+5  p- Attack-9.png
+C04
+C1A
+C1F
+10  p- Attack-10p.png
+C01
+5  p- Attack-11p.png
+5  p- Attack-12p.png
+5  p- Attack-13p.png
+2  p- Attack-14p.png
+C22
+2  p- Attack-15.png
+2  p- Attack-16.png
+3  p- Attack-17.png
+3  p- Attack-18.png
+3  p- Attack-19.png
+3  p- Attack-20.png
+3  p- Attack-21.png
+1  p- Standing-1.png
+C06
+C0D
+~~~
+//begin Mode 3
+C03
+C07
+1  p- Standing-1.png
+2  p- Attack-1.png
+C1B
+2  p- Attack-2.png
+2  p- Attack-3.png
+2  p- Attack-4.png
+16  p- Attack-5.png
+5  p- Attack-6.png
+5  p- Attack-7.png
+5  p- Attack-8.png
+5  p- Attack-9.png
+C04
+C08
+C1F
+10  p- Attack-10p.png
+C01
+5  p- Attack-11p.png
+5  p- Attack-12p.png
+5  p- Attack-13p.png
+2  p- Attack-14p.png
+C22
+2  p- Attack-15.png
+2  p- Attack-16.png
+3  p- Attack-17.png
+3  p- Attack-18.png
+3  p- Attack-19.png
+3  p- Attack-20.png
+3  p- Attack-21.png
+1  p- Standing-1.png
+C06
+C0D
+~~~
+//begin Mode 5
+C03
+C07
+1  p- Standing-1.png
+C22
+10  p- Standing-1.png
+C25
+1  p- Standing-1.png
+C05
+1  p- Standing-1.png
+C01
+1  p- Standing-1.png
+C06
+C0D
+~~~
+//begin Mode 6
+C03
+C07
+1  p- Standing-1.png
+C22
+10  p- Standing-1.png
+C25
+1  p- Standing-1.png
+C05
+1  p- Standing-1.png
+C01
+1  p- Standing-1.png
+C06
+C0D
+~~~
+//begin Mode 7
+C18
+1  p- Standing-1.png
+C0E
+3  p- Dodge-1.png
+1  p- Dodge-2.png
+C01
+3  p- Dodge-1.png
+C0D
+~~~
+//begin Mode 8
+C18
+1  p- Standing-1.png
+C0E
+3  p- Dodge-1.png
+1  p- Dodge-2.png
+C01
+3  p- Dodge-1.png
+C0D
+~~~
+//begin Mode 9
+//0 p-Standing-1.png
+//10  p- Unsheathe-1.png
+//5  p- Unsheathe-2.png
+//5  p- Unsheathe-3.png
+10  p- Standing-1.png
+C01
+~~~
+//begin Mode 10
+15  p- Standing-1.png
+C01
+~~~
+//begin Mode 11
+16  p- Standing-1.png
+C01
+~~~
+//begin Mode 12
+C03
+C07
+1  p- Standing-1.png
+2  p- Attack-1.png
+C1B
+2  p- Attack-2.png
+2  p- Attack-3.png
+2  p- Attack-4.png
+6  p- Attack-5.png
+5  p- Attack-6.png
+5  p- Attack-7.png
+5  p- Attack-8.png
+5  p- Attack-9.png
+C04
+10  p- Attack-10.png
+C01
+5  p- Attack-11.png
+5  p- Attack-12.png
+5  p- Attack-13.png
+2  p- Attack-14.png
+C22
+2  p- Attack-15.png
+2  p- Attack-16.png
+3  p- Attack-17.png
+3  p- Attack-18.png
+3  p- Attack-19.png
+3  p- Attack-20.png
+3  p- Attack-21.png
+C06
+C0D
+~~~
+//End of animation script

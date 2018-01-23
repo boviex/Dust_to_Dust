@@ -1,0 +1,2 @@
+Momentum: Deal +3 damage[N]
+when moving 5 or more tiles.[X]

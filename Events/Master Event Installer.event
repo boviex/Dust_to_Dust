@@ -1,0 +1,7 @@
+  //Event Writer ASMC
+  // #include "../Engine Hacks/EventWriter.txt"
+
+{
+  #include PrologueEvents.event
+}
+

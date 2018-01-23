@@ -1,0 +1,7 @@
+#qrow moves across the river
+[FarLeft][LoadQrow]
+All right, Ruby.[AN]
+See that old [Red]snag[Red] there?[N]
+You can use it to cross the river.[AN]
+Go ahead and chop it down,[N]
+then come talk to me.[A][X]

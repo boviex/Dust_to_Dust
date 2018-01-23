@@ -1,0 +1,785 @@
+BYTE 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 3 0 0 0x85 7 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 6 0 0 0x86
+POIN _rubybigatk01_png
+BYTE 24 0 0 0 10 0 0 0x86
+POIN _rubybigatk02_png
+BYTE 48 0 0 0 5 0 0 0x86
+POIN _rubybigatk03_png
+BYTE 72 0 0 0 3 0 0 0x86
+POIN _rubybigatk04_png
+BYTE 96 0 0 0 2 0 0 0x86
+POIN _rubybigatk05_png
+BYTE 120 0 0 0 72 0xC4 0 0x85 2 0 0 0x86
+POIN _rubybigatk06_png
+BYTE 144 0 0 0 1 0 0 0x86
+POIN _rubybigatk07_png
+BYTE 168 0 0 0 1 0 0 0x86
+POIN _rubybigatk08_png
+BYTE 192 0 0 0 1 0 0 0x86
+POIN _rubybigatk09_png
+BYTE 216 0 0 0 1 0 0 0x86
+POIN _rubybigatk10_png
+BYTE 240 0 0 0 2 0 0 0x86
+POIN _rubybigatk11_png
+BYTE 8 1 0 0 1 0 0 0x86
+POIN _rubybigatk12_png
+BYTE 32 1 0 0 2 0 0 0x86
+POIN _rubybigatk13_png
+BYTE 56 1 0 0 2 0 0 0x86
+POIN _rubybigatk14_png
+BYTE 80 1 0 0 2 0 0 0x86
+POIN _rubybigatk15_png
+BYTE 104 1 0 0 2 0 0 0x86
+POIN _rubybigatk16_png
+BYTE 128 1 0 0 3 0 0 0x86
+POIN _rubybigatk17_png
+BYTE 152 1 0 0 3 0 0 0x86
+POIN _rubybigatk18_png
+BYTE 176 1 0 0 4 0 0 0x86
+POIN _rubybigatk19_png
+BYTE 200 1 0 0 3 0 0 0x86
+POIN _rubybigatk20_png
+BYTE 224 1 0 0 2 0 0 0x86
+POIN _rubybigatk21_png
+BYTE 248 1 0 0 1 0 0 0x86
+POIN _rubybigatk22_png
+BYTE 16 2 0 0 1 0 0 0x86
+POIN _rubybigatk23_png
+BYTE 40 2 0 0 1 0 0 0x86
+POIN _rubybigatk24_png
+BYTE 64 2 0 0 1 0 0 0x86
+POIN _rubybigatk25_png
+BYTE 88 2 0 0 1 0 0 0x86
+POIN _rubybigatk26_png
+BYTE 124 2 0 0 4 0 0 0x85 26 0 0 0x85 31 0 0 0x85
+BYTE 2 0 0 0x86
+POIN _rubybigatk27_png
+BYTE 160 2 0 0 3 0 0 0x86
+POIN _rubybigatk28_png
+BYTE 184 2 0 0 4 0 0 0x86
+POIN _rubybigatk29_png
+BYTE 208 2 0 0 4 0 0 0x86
+POIN _rubybigatk30_png
+BYTE 232 2 0 0 4 0 0 0x86
+POIN _rubybigatk31_png
+BYTE 0 3 0 0 5 0 0 0x86
+POIN _rubybigatk32_png
+BYTE 24 3 0 0 5 0 0 0x86
+POIN _rubybigatk33_png
+BYTE 48 3 0 0 8 0 0 0x86
+POIN _rubybigatk34_png
+BYTE 72 3 0 0 1 0 0 0x85 4 0 0 0x86
+POIN _rubybigatk35_png
+BYTE 96 3 0 0 2 0 0 0x86
+POIN _rubybigatk36_png
+BYTE 120 3 0 0 1 0 0 0x86
+POIN _rubybigatk37_png
+BYTE 144 3 0 0 1 0 0 0x86
+POIN _rubybigatk38_png
+BYTE 168 3 0 0 2 0 0 0x86
+POIN _rubybigatk39_png
+BYTE 192 3 0 0 2 0 0 0x86
+POIN _rubybigatk40_png
+BYTE 216 3 0 0 2 0 0 0x86
+POIN _rubybigatk41_png
+BYTE 240 3 0 0 2 0 0 0x86
+POIN _rubybigatk42_png
+BYTE 8 4 0 0 2 0 0 0x86
+POIN _rubybigatk43_png
+BYTE 32 4 0 0 2 0 0 0x86
+POIN _rubybigatk44_png
+BYTE 56 4 0 0 4 0 0 0x86
+POIN _rubybigatk45_png
+BYTE 80 4 0 0 6 0 0 0x86
+POIN _rubybigatk46_png
+BYTE 104 4 0 0 3 0 0 0x86
+POIN _rubybigatk47_png
+BYTE 128 4 0 0 3 0 0 0x86
+POIN _rubybigatk48_png
+BYTE 152 4 0 0 3 0 0 0x86
+POIN _rubybigatk49_png
+BYTE 176 4 0 0 6 0 0 0x85 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 13 0 0 0x85 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 0 0 0 0x80 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 3 0 0 0x85 7 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 6 0 0 0x86
+POIN _rubybigatk01_png
+BYTE 24 0 0 0 10 0 0 0x86
+POIN _rubybigatk02_png
+BYTE 48 0 0 0 5 0 0 0x86
+POIN _rubybigatk03_png
+BYTE 72 0 0 0 3 0 0 0x86
+POIN _rubybigatk04_png
+BYTE 96 0 0 0 2 0 0 0x86
+POIN _rubybigatk05_png
+BYTE 120 0 0 0 72 0xC4 0 0x85 2 0 0 0x86
+POIN _rubybigatk06_png
+BYTE 144 0 0 0 1 0 0 0x86
+POIN _rubybigatk07_png
+BYTE 168 0 0 0 1 0 0 0x86
+POIN _rubybigatk08_png
+BYTE 192 0 0 0 1 0 0 0x86
+POIN _rubybigatk09_png
+BYTE 216 0 0 0 1 0 0 0x86
+POIN _rubybigatk10_png
+BYTE 240 0 0 0 2 0 0 0x86
+POIN _rubybigatk11_png
+BYTE 8 1 0 0 1 0 0 0x86
+POIN _rubybigatk12_png
+BYTE 32 1 0 0 2 0 0 0x86
+POIN _rubybigatk13_png
+BYTE 56 1 0 0 2 0 0 0x86
+POIN _rubybigatk14_png
+BYTE 80 1 0 0 2 0 0 0x86
+POIN _rubybigatk15_png
+BYTE 104 1 0 0 2 0 0 0x86
+POIN _rubybigatk16_png
+BYTE 128 1 0 0 3 0 0 0x86
+POIN _rubybigatk17_png
+BYTE 152 1 0 0 3 0 0 0x86
+POIN _rubybigatk18_png
+BYTE 176 1 0 0 4 0 0 0x86
+POIN _rubybigatk19_png
+BYTE 200 1 0 0 3 0 0 0x86
+POIN _rubybigatk20_png
+BYTE 224 1 0 0 2 0 0 0x86
+POIN _rubybigatk21_png
+BYTE 248 1 0 0 1 0 0 0x86
+POIN _rubybigatk22_png
+BYTE 16 2 0 0 1 0 0 0x86
+POIN _rubybigatk23_png
+BYTE 40 2 0 0 1 0 0 0x86
+POIN _rubybigatk24_png
+BYTE 64 2 0 0 1 0 0 0x86
+POIN _rubybigatk25_png
+BYTE 88 2 0 0 1 0 0 0x86
+POIN _rubybigatk26_png
+BYTE 124 2 0 0 4 0 0 0x85 26 0 0 0x85 31 0 0 0x85
+BYTE 2 0 0 0x86
+POIN _rubybigatk27_png
+BYTE 160 2 0 0 3 0 0 0x86
+POIN _rubybigatk28_png
+BYTE 184 2 0 0 4 0 0 0x86
+POIN _rubybigatk29_png
+BYTE 208 2 0 0 4 0 0 0x86
+POIN _rubybigatk30_png
+BYTE 232 2 0 0 4 0 0 0x86
+POIN _rubybigatk31_png
+BYTE 0 3 0 0 5 0 0 0x86
+POIN _rubybigatk32_png
+BYTE 24 3 0 0 5 0 0 0x86
+POIN _rubybigatk33_png
+BYTE 48 3 0 0 8 0 0 0x86
+POIN _rubybigatk34_png
+BYTE 72 3 0 0 1 0 0 0x85 4 0 0 0x86
+POIN _rubybigatk35_png
+BYTE 96 3 0 0 2 0 0 0x86
+POIN _rubybigatk36_png
+BYTE 120 3 0 0 1 0 0 0x86
+POIN _rubybigatk37_png
+BYTE 144 3 0 0 1 0 0 0x86
+POIN _rubybigatk38_png
+BYTE 168 3 0 0 2 0 0 0x86
+POIN _rubybigatk39_png
+BYTE 192 3 0 0 2 0 0 0x86
+POIN _rubybigatk40_png
+BYTE 216 3 0 0 2 0 0 0x86
+POIN _rubybigatk41_png
+BYTE 240 3 0 0 2 0 0 0x86
+POIN _rubybigatk42_png
+BYTE 8 4 0 0 2 0 0 0x86
+POIN _rubybigatk43_png
+BYTE 32 4 0 0 2 0 0 0x86
+POIN _rubybigatk44_png
+BYTE 56 4 0 0 4 0 0 0x86
+POIN _rubybigatk45_png
+BYTE 80 4 0 0 6 0 0 0x86
+POIN _rubybigatk46_png
+BYTE 104 4 0 0 3 0 0 0x86
+POIN _rubybigatk47_png
+BYTE 128 4 0 0 3 0 0 0x86
+POIN _rubybigatk48_png
+BYTE 152 4 0 0 3 0 0 0x86
+POIN _rubybigatk49_png
+BYTE 176 4 0 0 6 0 0 0x85 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 13 0 0 0x85 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 0 0 0 0x80 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 3 0 0 0x85 7 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 6 0 0 0x86
+POIN _rubybigatk01_png
+BYTE 24 0 0 0 10 0 0 0x86
+POIN _rubybigatk02_png
+BYTE 48 0 0 0 5 0 0 0x86
+POIN _rubybigatk03_png
+BYTE 72 0 0 0 3 0 0 0x86
+POIN _rubybigatk04_png
+BYTE 96 0 0 0 2 0 0 0x86
+POIN _rubybigatk05_png
+BYTE 120 0 0 0 72 0xC5 0 0x85 2 0 0 0x86
+POIN _rubybigatk06_png
+BYTE 144 0 0 0 1 0 0 0x86
+POIN _rubybigatk07_png
+BYTE 168 0 0 0 1 0 0 0x86
+POIN _rubybigatk08_png
+BYTE 192 0 0 0 1 0 0 0x86
+POIN _rubybigatk09_png
+BYTE 216 0 0 0 1 0 0 0x86
+POIN _rubybigatk10_png
+BYTE 240 0 0 0 2 0 0 0x86
+POIN _rubybigatk11_png
+BYTE 8 1 0 0 1 0 0 0x86
+POIN _rubybigatk12_png
+BYTE 32 1 0 0 2 0 0 0x86
+POIN _rubybigatk13_png
+BYTE 56 1 0 0 2 0 0 0x86
+POIN _rubybigatk14_png
+BYTE 80 1 0 0 2 0 0 0x86
+POIN _rubybigatk15_png
+BYTE 104 1 0 0 3 0 0 0x86
+POIN _rubybigcrit02_png
+BYTE 200 4 0 0 4 0 0 0x86
+POIN _rubybigcrit02_png
+BYTE 200 4 0 0 6 0 0 0x86
+POIN _rubybigcrit03_png
+BYTE 224 4 0 0 3 0 0 0x86
+POIN _rubybigcrit04_png
+BYTE 248 4 0 0 2 0 0 0x86
+POIN _rubybigcrit05_png
+BYTE 16 5 0 0 2 0 0 0x86
+POIN _rubybigcrit06_png
+BYTE 40 5 0 0 3 0 0 0x86
+POIN _rubybigcrit07_png
+BYTE 64 5 0 0 3 0 0 0x86
+POIN _rubybigcrit08_png
+BYTE 100 5 0 0 5 0 0 0x86
+POIN _rubybigcrit09_png
+BYTE 124 5 0 0 6 0 0 0x86
+POIN _rubybigcrit10_png
+BYTE 148 5 0 0 12 0 0 0x86
+POIN _rubybigcrit11_png
+BYTE 172 5 0 0 6 0 0 0x86
+POIN _rubybigcrit12_png
+BYTE 196 5 0 0 7 0 0 0x86
+POIN _rubybigcrit13_png
+BYTE 232 5 0 0 5 0 0 0x86
+POIN _rubybigcrit14_png
+BYTE 0 6 0 0 3 0 0 0x86
+POIN _rubybigcrit15_png
+BYTE 24 6 0 0 2 0 0 0x86
+POIN _rubybigcrit16_png
+BYTE 48 6 0 0 2 0 0 0x86
+POIN _rubybigcrit17_png
+BYTE 72 6 0 0 3 0 0 0x86
+POIN _rubybigcrit18_png
+BYTE 96 6 0 0 24 0 0 0x86
+POIN _rubybigcrit19_png
+BYTE 120 6 0 0 1 0 0 0x86
+POIN _rubybigcrit20_png
+BYTE 144 6 0 0 2 0 0 0x86
+POIN _rubybigcrit21_png
+BYTE 180 6 0 0 6 0 0 0x86
+POIN _rubybigDodge_6_png
+BYTE 216 6 0 0 6 0 0 0x86
+POIN _rubybigDodge_7_png
+BYTE 252 6 0 0 3 0 0 0x86
+POIN _rubybigcrit24_png
+BYTE 20 7 0 0 3 0 0 0x86
+POIN _rubybigcrit25_png
+BYTE 56 7 0 0 3 0 0 0x86
+POIN _rubybigcrit26_png
+BYTE 92 7 0 0 3 0 0 0x86
+POIN _rubybigcrit27_png
+BYTE 116 7 0 0 3 0 0 0x86
+POIN _rubybigcrit28_png
+BYTE 152 7 0 0 3 0 0 0x86
+POIN _rubybigcrit29_png
+BYTE 188 7 0 0 3 0 0 0x86
+POIN _rubybigcrit30_png
+BYTE 224 7 0 0 3 0 0 0x86
+POIN _rubybigcrit31_png
+BYTE 4 8 0 0 3 0 0 0x86
+POIN _rubybigcrit32_png
+BYTE 40 8 0 0 3 0 0 0x86
+POIN _rubybigcrit33_png
+BYTE 64 8 0 0 5 0 0 0x86
+POIN _rubybigcrit34_png
+BYTE 88 8 0 0 5 0 0 0x86
+POIN _rubybigcrit35_png
+BYTE 112 8 0 0 5 0 0 0x86
+POIN _rubybigcrit36_png
+BYTE 136 8 0 0 10 0 0 0x86
+POIN _rubybigcrit37_png
+BYTE 160 8 0 0 4 0 0 0x85 8 0 0 0x85 31 0 0 0x85
+BYTE 2 0 0 0x86
+POIN _rubybigcrit38_png
+BYTE 184 8 0 0 3 0 0 0x86
+POIN _rubybigcrit39_png
+BYTE 220 8 0 0 4 0 0 0x86
+POIN _rubybigcrit40_png
+BYTE 0 9 0 0 4 0 0 0x86
+POIN _rubybigcrit41_png
+BYTE 36 9 0 0 4 0 0 0x86
+POIN _rubybigcrit42_png
+BYTE 72 9 0 0 5 0 0 0x86
+POIN _rubybigcrit43_png
+BYTE 108 9 0 0 5 0 0 0x86
+POIN _rubybigcrit44_png
+BYTE 144 9 0 0 5 0 0 0x86
+POIN _rubybigcrit45_png
+BYTE 180 9 0 0 6 0 0 0x86
+POIN _rubybigcrit46_png
+BYTE 216 9 0 0 6 0 0 0x86
+POIN _rubybigcrit47_png
+BYTE 252 9 0 0 8 0 0 0x86
+POIN _rubybigcrit48_png
+BYTE 32 10 0 0 8 0 0 0x86
+POIN _rubybigcrit49_png
+BYTE 68 10 0 0 8 0 0 0x86
+POIN _rubybigcrit50_png
+BYTE 92 10 0 0 10 0 0 0x86
+POIN _rubybigcrit51_png
+BYTE 116 10 0 0 20 0 0 0x86
+POIN _rubybigcrit52_png
+BYTE 140 10 0 0 1 0 0 0x85 2 0 0 0x86
+POIN _rubybigcrit53_png
+BYTE 164 10 0 0 2 0 0 0x86
+POIN _rubybigatk36_png
+BYTE 120 3 0 0 1 0 0 0x86
+POIN _rubybigatk37_png
+BYTE 144 3 0 0 1 0 0 0x86
+POIN _rubybigatk38_png
+BYTE 168 3 0 0 2 0 0 0x86
+POIN _rubybigatk39_png
+BYTE 192 3 0 0 2 0 0 0x86
+POIN _rubybigatk40_png
+BYTE 216 3 0 0 2 0 0 0x86
+POIN _rubybigatk41_png
+BYTE 240 3 0 0 2 0 0 0x86
+POIN _rubybigatk42_png
+BYTE 8 4 0 0 2 0 0 0x86
+POIN _rubybigatk43_png
+BYTE 32 4 0 0 2 0 0 0x86
+POIN _rubybigatk44_png
+BYTE 56 4 0 0 4 0 0 0x86
+POIN _rubybigatk45_png
+BYTE 80 4 0 0 6 0 0 0x86
+POIN _rubybigatk46_png
+BYTE 104 4 0 0 3 0 0 0x86
+POIN _rubybigatk47_png
+BYTE 128 4 0 0 3 0 0 0x86
+POIN _rubybigatk48_png
+BYTE 152 4 0 0 3 0 0 0x86
+POIN _rubybigatk49_png
+BYTE 176 4 0 0 6 0 0 0x85 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 13 0 0 0x85 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 0 0 0 0x80 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 3 0 0 0x85 7 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 6 0 0 0x86
+POIN _rubybigatk01_png
+BYTE 24 0 0 0 10 0 0 0x86
+POIN _rubybigatk02_png
+BYTE 48 0 0 0 5 0 0 0x86
+POIN _rubybigatk03_png
+BYTE 72 0 0 0 3 0 0 0x86
+POIN _rubybigatk04_png
+BYTE 96 0 0 0 2 0 0 0x86
+POIN _rubybigatk05_png
+BYTE 120 0 0 0 72 0xC2 0 0x85 2 0 0 0x86
+POIN _rubybigatk06_png
+BYTE 144 0 0 0 1 0 0 0x86
+POIN _rubybigatk07_png
+BYTE 168 0 0 0 1 0 0 0x86
+POIN _rubybigatk08_png
+BYTE 192 0 0 0 1 0 0 0x86
+POIN _rubybigatk09_png
+BYTE 216 0 0 0 1 0 0 0x86
+POIN _rubybigatk10_png
+BYTE 240 0 0 0 2 0 0 0x86
+POIN _rubybigatk11_png
+BYTE 8 1 0 0 1 0 0 0x86
+POIN _rubybigatk12_png
+BYTE 32 1 0 0 2 0 0 0x86
+POIN _rubybigatk13_png
+BYTE 56 1 0 0 2 0 0 0x86
+POIN _rubybigatk14_png
+BYTE 80 1 0 0 2 0 0 0x86
+POIN _rubybigatk15_png
+BYTE 104 1 0 0 3 0 0 0x86
+POIN _rubybigcrit02_png
+BYTE 200 4 0 0 4 0 0 0x86
+POIN _rubybigcrit02_png
+BYTE 200 4 0 0 6 0 0 0x86
+POIN _rubybigcrit03_png
+BYTE 224 4 0 0 3 0 0 0x86
+POIN _rubybigcrit04_png
+BYTE 248 4 0 0 2 0 0 0x86
+POIN _rubybigcrit05_png
+BYTE 16 5 0 0 2 0 0 0x86
+POIN _rubybigcrit06_png
+BYTE 40 5 0 0 3 0 0 0x86
+POIN _rubybigcrit07_png
+BYTE 64 5 0 0 3 0 0 0x86
+POIN _rubybigcrit08_png
+BYTE 100 5 0 0 5 0 0 0x86
+POIN _rubybigcrit09_png
+BYTE 124 5 0 0 6 0 0 0x86
+POIN _rubybigcrit10_png
+BYTE 148 5 0 0 12 0 0 0x86
+POIN _rubybigcrit11_png
+BYTE 172 5 0 0 6 0 0 0x86
+POIN _rubybigcrit12_png
+BYTE 196 5 0 0 7 0 0 0x86
+POIN _rubybigcrit13_png
+BYTE 232 5 0 0 5 0 0 0x86
+POIN _rubybigcrit14_png
+BYTE 0 6 0 0 3 0 0 0x86
+POIN _rubybigcrit15_png
+BYTE 24 6 0 0 2 0 0 0x86
+POIN _rubybigcrit16_png
+BYTE 48 6 0 0 2 0 0 0x86
+POIN _rubybigcrit17_png
+BYTE 72 6 0 0 3 0 0 0x86
+POIN _rubybigcrit18_png
+BYTE 96 6 0 0 24 0 0 0x86
+POIN _rubybigcrit19_png
+BYTE 120 6 0 0 1 0 0 0x86
+POIN _rubybigcrit20_png
+BYTE 144 6 0 0 2 0 0 0x86
+POIN _rubybigcrit21_png
+BYTE 180 6 0 0 6 0 0 0x86
+POIN _rubybigDodge_6_png
+BYTE 216 6 0 0 6 0 0 0x86
+POIN _rubybigDodge_7_png
+BYTE 252 6 0 0 3 0 0 0x86
+POIN _rubybigcrit24_png
+BYTE 20 7 0 0 3 0 0 0x86
+POIN _rubybigcrit25_png
+BYTE 56 7 0 0 3 0 0 0x86
+POIN _rubybigcrit26_png
+BYTE 92 7 0 0 3 0 0 0x86
+POIN _rubybigcrit27_png
+BYTE 116 7 0 0 3 0 0 0x86
+POIN _rubybigcrit28_png
+BYTE 152 7 0 0 3 0 0 0x86
+POIN _rubybigcrit29_png
+BYTE 188 7 0 0 3 0 0 0x86
+POIN _rubybigcrit30_png
+BYTE 224 7 0 0 3 0 0 0x86
+POIN _rubybigcrit31_png
+BYTE 4 8 0 0 3 0 0 0x86
+POIN _rubybigcrit32_png
+BYTE 40 8 0 0 3 0 0 0x86
+POIN _rubybigcrit33_png
+BYTE 64 8 0 0 5 0 0 0x86
+POIN _rubybigcrit34_png
+BYTE 88 8 0 0 5 0 0 0x86
+POIN _rubybigcrit35_png
+BYTE 112 8 0 0 5 0 0 0x86
+POIN _rubybigcrit36_png
+BYTE 136 8 0 0 10 0 0 0x86
+POIN _rubybigcrit37_png
+BYTE 160 8 0 0 4 0 0 0x85 8 0 0 0x85 31 0 0 0x85
+BYTE 2 0 0 0x86
+POIN _rubybigcrit38_png
+BYTE 184 8 0 0 3 0 0 0x86
+POIN _rubybigcrit39_png
+BYTE 220 8 0 0 4 0 0 0x86
+POIN _rubybigcrit40_png
+BYTE 0 9 0 0 4 0 0 0x86
+POIN _rubybigcrit41_png
+BYTE 36 9 0 0 4 0 0 0x86
+POIN _rubybigcrit42_png
+BYTE 72 9 0 0 5 0 0 0x86
+POIN _rubybigcrit43_png
+BYTE 108 9 0 0 5 0 0 0x86
+POIN _rubybigcrit44_png
+BYTE 144 9 0 0 5 0 0 0x86
+POIN _rubybigcrit45_png
+BYTE 180 9 0 0 6 0 0 0x86
+POIN _rubybigcrit46_png
+BYTE 216 9 0 0 6 0 0 0x86
+POIN _rubybigcrit47_png
+BYTE 252 9 0 0 8 0 0 0x86
+POIN _rubybigcrit48_png
+BYTE 32 10 0 0 8 0 0 0x86
+POIN _rubybigcrit49_png
+BYTE 68 10 0 0 8 0 0 0x86
+POIN _rubybigcrit50_png
+BYTE 92 10 0 0 10 0 0 0x86
+POIN _rubybigcrit51_png
+BYTE 116 10 0 0 20 0 0 0x86
+POIN _rubybigcrit52_png
+BYTE 140 10 0 0 1 0 0 0x85 2 0 0 0x86
+POIN _rubybigcrit53_png
+BYTE 164 10 0 0 2 0 0 0x86
+POIN _rubybigatk36_png
+BYTE 120 3 0 0 1 0 0 0x86
+POIN _rubybigatk37_png
+BYTE 144 3 0 0 1 0 0 0x86
+POIN _rubybigatk38_png
+BYTE 168 3 0 0 2 0 0 0x86
+POIN _rubybigatk39_png
+BYTE 192 3 0 0 2 0 0 0x86
+POIN _rubybigatk40_png
+BYTE 216 3 0 0 2 0 0 0x86
+POIN _rubybigatk41_png
+BYTE 240 3 0 0 2 0 0 0x86
+POIN _rubybigatk42_png
+BYTE 8 4 0 0 2 0 0 0x86
+POIN _rubybigatk43_png
+BYTE 32 4 0 0 2 0 0 0x86
+POIN _rubybigatk44_png
+BYTE 56 4 0 0 4 0 0 0x86
+POIN _rubybigatk45_png
+BYTE 80 4 0 0 6 0 0 0x86
+POIN _rubybigatk46_png
+BYTE 104 4 0 0 3 0 0 0x86
+POIN _rubybigatk47_png
+BYTE 128 4 0 0 3 0 0 0x86
+POIN _rubybigatk48_png
+BYTE 152 4 0 0 3 0 0 0x86
+POIN _rubybigatk49_png
+BYTE 176 4 0 0 6 0 0 0x85 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 13 0 0 0x85 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 0 0 0 0x80 3 0 0 0x85 7 0 0 0x85
+BYTE 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 5 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 1 0 0 0x85 6 0 0 0x85 13 0 0 0x85
+BYTE 0 0 0 0x80 3 0 0 0x85 7 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 5 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 1 0 0 0x85 6 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 13 0 0 0x85 0 0 0 0x80 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 24 0 0 0x85 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 14 0 0 0x85 2 0 0 0x86
+POIN _rubybigDodge_1_png
+BYTE 188 10 0 0 2 0 0 0x86
+POIN _rubybigDodge_2_png
+BYTE 212 10 0 0 2 0 0 0x86
+POIN _rubybigDodge_3_png
+BYTE 236 10 0 0 5 0 0 0x86
+POIN _rubybigDodge_4_png
+BYTE 4 11 0 0 5 0 0 0x86
+POIN _rubybigDodge_5_png
+BYTE 28 11 0 0 5 0 0 0x86
+POIN _rubybigDodge_6_png
+BYTE 216 6 0 0 1 0 0 0x86
+POIN _rubybigDodge_7_png
+BYTE 252 6 0 0 2 0 0 0x86
+POIN _rubybigDodge_8_png
+BYTE 52 11 0 0 1 0 0 0x85 10 0 0 0x86
+POIN _rubybigDodge_8_png
+BYTE 52 11 0 0 2 0 0 0x86
+POIN _rubybigDodge_9_png
+BYTE 64 11 0 0 2 0 0 0x86
+POIN _rubybigDodge_10_png
+BYTE 88 11 0 0 3 0 0 0x86
+POIN _rubybigDodge_11_png
+BYTE 112 11 0 0 3 0 0 0x86
+POIN _rubybigDodge_12_png
+BYTE 136 11 0 0 5 0 0 0x86
+POIN _rubybigDodge_13_png
+BYTE 160 11 0 0 5 0 0 0x86
+POIN _rubybigDodge_14_png
+BYTE 184 11 0 0 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 13 0 0 0x85 0 0 0 0x80 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 24 0 0 0x85 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 14 0 0 0x85 2 0 0 0x86
+POIN _rubybigDodge_1_png
+BYTE 188 10 0 0 2 0 0 0x86
+POIN _rubybigDodge_2_png
+BYTE 212 10 0 0 2 0 0 0x86
+POIN _rubybigDodge_3_png
+BYTE 236 10 0 0 5 0 0 0x86
+POIN _rubybigDodge_4_png
+BYTE 4 11 0 0 5 0 0 0x86
+POIN _rubybigDodge_5_png
+BYTE 28 11 0 0 5 0 0 0x86
+POIN _rubybigDodge_6_png
+BYTE 216 6 0 0 1 0 0 0x86
+POIN _rubybigDodge_7_png
+BYTE 252 6 0 0 2 0 0 0x86
+POIN _rubybigDodge_8_png
+BYTE 52 11 0 0 1 0 0 0x85 10 0 0 0x86
+POIN _rubybigDodge_8_png
+BYTE 52 11 0 0 2 0 0 0x86
+POIN _rubybigDodge_9_png
+BYTE 64 11 0 0 2 0 0 0x86
+POIN _rubybigDodge_10_png
+BYTE 88 11 0 0 3 0 0 0x86
+POIN _rubybigDodge_11_png
+BYTE 112 11 0 0 3 0 0 0x86
+POIN _rubybigDodge_12_png
+BYTE 136 11 0 0 5 0 0 0x86
+POIN _rubybigDodge_13_png
+BYTE 160 11 0 0 5 0 0 0x86
+POIN _rubybigDodge_14_png
+BYTE 184 11 0 0 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 13 0 0 0x85 0 0 0 0x80 10 0 0 0x86
+POIN _rubybigUnsheathe_1_png
+BYTE 208 11 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_2_png
+BYTE 232 11 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_3_png
+BYTE 0 12 0 0 6 0 0 0x86
+POIN _rubybigUnsheathe_4_png
+BYTE 24 12 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_5_png
+BYTE 48 12 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_6_png
+BYTE 72 12 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_7_png
+BYTE 96 12 0 0 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 0 0 0 0x80 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 1 0 0 0x85 0 0 0 0x80 10 0 0 0x86
+POIN _rubybigUnsheathe_1_png
+BYTE 208 11 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_2_png
+BYTE 232 11 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_3_png
+BYTE 0 12 0 0 6 0 0 0x86
+POIN _rubybigUnsheathe_4_png
+BYTE 24 12 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_5_png
+BYTE 48 12 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_6_png
+BYTE 72 12 0 0 3 0 0 0x86
+POIN _rubybigUnsheathe_7_png
+BYTE 96 12 0 0 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 0 0 0 0x80 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 3 0 0 0x85 7 0 0 0x85 8 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 6 0 0 0x86
+POIN _rubybigatk01_png
+BYTE 24 0 0 0 10 0 0 0x86
+POIN _rubybigatk02_png
+BYTE 48 0 0 0 5 0 0 0x86
+POIN _rubybigatk03_png
+BYTE 72 0 0 0 3 0 0 0x86
+POIN _rubybigatk04_png
+BYTE 96 0 0 0 2 0 0 0x86
+POIN _rubybigatk05_png
+BYTE 120 0 0 0 72 0xC6 0 0x85 2 0 0 0x86
+POIN _rubybigatk06_png
+BYTE 144 0 0 0 1 0 0 0x86
+POIN _rubybigatk07_png
+BYTE 168 0 0 0 1 0 0 0x86
+POIN _rubybigatk08_png
+BYTE 192 0 0 0 1 0 0 0x86
+POIN _rubybigatk09_png
+BYTE 216 0 0 0 1 0 0 0x86
+POIN _rubybigatk10_png
+BYTE 240 0 0 0 2 0 0 0x86
+POIN _rubybigatk11_png
+BYTE 8 1 0 0 1 0 0 0x86
+POIN _rubybigatk12_png
+BYTE 32 1 0 0 2 0 0 0x86
+POIN _rubybigatk13_png
+BYTE 56 1 0 0 2 0 0 0x86
+POIN _rubybigatk14_png
+BYTE 80 1 0 0 2 0 0 0x86
+POIN _rubybigatk15_png
+BYTE 104 1 0 0 2 0 0 0x86
+POIN _rubybigatk16_png
+BYTE 128 1 0 0 3 0 0 0x86
+POIN _rubybigatk17_png
+BYTE 152 1 0 0 3 0 0 0x86
+POIN _rubybigatk18_png
+BYTE 176 1 0 0 4 0 0 0x86
+POIN _rubybigatk19_png
+BYTE 200 1 0 0 3 0 0 0x86
+POIN _rubybigatk20_png
+BYTE 224 1 0 0 2 0 0 0x86
+POIN _rubybigatk21_png
+BYTE 248 1 0 0 1 0 0 0x86
+POIN _rubybigatk22_png
+BYTE 16 2 0 0 1 0 0 0x86
+POIN _rubybigatk23_png
+BYTE 40 2 0 0 1 0 0 0x86
+POIN _rubybigatk24_png
+BYTE 64 2 0 0 1 0 0 0x86
+POIN _rubybigatk25_png
+BYTE 88 2 0 0 1 0 0 0x86
+POIN _rubybigatk26_png
+BYTE 124 2 0 0 4 0 0 0x85 2 0 0 0x86
+POIN _rubybigatk27_png
+BYTE 160 2 0 0 3 0 0 0x86
+POIN _rubybigatk28_png
+BYTE 184 2 0 0 4 0 0 0x86
+POIN _rubybigatk29_png
+BYTE 208 2 0 0 4 0 0 0x86
+POIN _rubybigatk30_png
+BYTE 232 2 0 0 4 0 0 0x86
+POIN _rubybigatk31_png
+BYTE 0 3 0 0 5 0 0 0x86
+POIN _rubybigatk32_png
+BYTE 24 3 0 0 5 0 0 0x86
+POIN _rubybigatk33_png
+BYTE 48 3 0 0 8 0 0 0x86
+POIN _rubybigatk34_png
+BYTE 72 3 0 0 1 0 0 0x85 4 0 0 0x86
+POIN _rubybigatk35_png
+BYTE 96 3 0 0 2 0 0 0x86
+POIN _rubybigatk36_png
+BYTE 120 3 0 0 1 0 0 0x86
+POIN _rubybigatk37_png
+BYTE 144 3 0 0 1 0 0 0x86
+POIN _rubybigatk38_png
+BYTE 168 3 0 0 2 0 0 0x86
+POIN _rubybigatk39_png
+BYTE 192 3 0 0 2 0 0 0x86
+POIN _rubybigatk40_png
+BYTE 216 3 0 0 2 0 0 0x86
+POIN _rubybigatk41_png
+BYTE 240 3 0 0 2 0 0 0x86
+POIN _rubybigatk42_png
+BYTE 8 4 0 0 2 0 0 0x86
+POIN _rubybigatk43_png
+BYTE 32 4 0 0 2 0 0 0x86
+POIN _rubybigatk44_png
+BYTE 56 4 0 0 4 0 0 0x86
+POIN _rubybigatk45_png
+BYTE 80 4 0 0 6 0 0 0x86
+POIN _rubybigatk46_png
+BYTE 104 4 0 0 3 0 0 0x86
+POIN _rubybigatk47_png
+BYTE 128 4 0 0 3 0 0 0x86
+POIN _rubybigatk48_png
+BYTE 152 4 0 0 3 0 0 0x86
+POIN _rubybigatk49_png
+BYTE 176 4 0 0 6 0 0 0x85 10 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 13 0 0 0x85 1 0 0 0x86
+POIN _rubybigatk00_png
+BYTE 0 0 0 0 0 0 0 0x80

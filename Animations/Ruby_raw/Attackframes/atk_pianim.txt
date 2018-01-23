@@ -1,0 +1,306 @@
+10  atk00.png
+03
+07
+8  atk00.png
+6  atk01.png
+10 atk02.png
+5  atk03.png
+3  atk04.png
+2  atk05.png
+48
+2  atk06.png
+1  atk07.png
+1  atk08.png
+1  atk09.png
+1  atk10.png
+2  atk11.png
+1  atk12.png
+2  atk13.png
+2  atk14.png
+2  atk15.png
+2  atk16.png
+3  atk17.png
+3  atk18.png
+4  atk19.png
+3  atk20.png
+2  atk21.png
+1  atk22.png
+1  atk23.png
+1  atk24.png
+1  atk25.png
+1  atk26.png
+04
+1A
+1F
+2  atk27.png
+3  atk28.png
+4  atk29.png
+4  atk30.png
+4  atk31.png
+5  atk32.png
+5  atk33.png
+8  atk34.png
+01
+4  atk35.png
+2  atk36.png
+1  atk37.png
+1  atk38.png
+2  atk39.png
+2  atk40.png
+2  atk41.png
+2  atk42.png
+2  atk43.png
+2  atk44.png
+4  atk45.png
+6  atk46.png
+3  atk47.png
+3  atk48.png
+3  atk49.png
+06
+10  atk00.png
+0D
+1  atk00.png
+~~~
+10  atk00.png
+03
+07
+8  atk00.png
+6  atk01.png
+10 atk02.png
+5  atk03.png
+3  atk04.png
+2  atk05.png
+48
+2  atk06.png
+1  atk07.png
+1  atk08.png
+1  atk09.png
+1  atk10.png
+2  atk11.png
+1  atk12.png
+2  atk13.png
+2  atk14.png
+2  atk15.png
+3  crit02.png
+4  crit02.png
+6  crit03.png
+3  crit04.png
+2  crit05.png
+2  crit06.png
+3  crit07.png
+3  crit08.png
+5  crit09.png
+6  crit10.png
+12 crit11.png
+6  crit12.png
+7  crit13.png
+5  crit14.png
+3  crit15.png
+2  crit16.png
+2  crit17.png
+3  crit18.png
+24 crit19.png
+1  crit20.png
+2  crit21.png
+6  Dodge-6.png
+6  Dodge-7.png
+3  crit24.png
+3  crit25.png
+3  crit26.png
+3  crit27.png
+3  crit28.png
+3  crit29.png
+3  crit30.png
+3  crit31.png
+3  crit32.png
+3  crit33.png
+5  crit34.png
+5  crit35.png
+5  crit36.png
+10 crit37.png
+04
+08
+1F
+2  crit38.png
+3  crit39.png
+4  crit40.png
+4  crit41.png
+4  crit42.png
+5  crit43.png
+5  crit44.png
+5  crit45.png
+6  crit46.png
+6  crit47.png
+8  crit48.png
+8  crit49.png
+8  crit50.png
+10 crit51.png
+20 crit52.png
+01
+2  crit53.png
+2  atk36.png
+1  atk37.png
+1  atk38.png
+2  atk39.png
+2  atk40.png
+2  atk41.png
+2  atk42.png
+2  atk43.png
+2  atk44.png
+4  atk45.png
+6  atk46.png
+3  atk47.png
+3  atk48.png
+3  atk49.png
+06
+10  atk00.png
+0D
+1  atk00.png
+~~~
+03
+07
+8  atk00.png
+05
+8  atk00.png
+01
+06
+0D
+~~~
+03
+07
+8  atk00.png
+05
+8  atk00.png
+01
+06
+8  atk00.png
+0D
+~~~
+8  atk00.png
+18
+1  atk00.png
+0E
+2  Dodge-1.png
+2  Dodge-2.png
+2  Dodge-3.png
+5  Dodge-4.png
+5  Dodge-5.png
+5  Dodge-6.png
+1  Dodge-7.png
+2  Dodge-8.png
+01
+10  Dodge-8.png
+2  Dodge-9.png
+2  Dodge-10.png
+3  Dodge-11.png
+3  Dodge-12.png
+5  Dodge-13.png
+5  Dodge-14.png
+1  atk00.png
+0D
+~~~
+8  atk00.png
+18
+1  atk00.png
+0E
+2  Dodge-1.png
+2  Dodge-2.png
+2  Dodge-3.png
+5  Dodge-4.png
+5  Dodge-5.png
+5  Dodge-6.png
+1  Dodge-7.png
+2  Dodge-8.png
+01
+10  Dodge-8.png
+2  Dodge-9.png
+2  Dodge-10.png
+3  Dodge-11.png
+3  Dodge-12.png
+5  Dodge-13.png
+5  Dodge-14.png
+1  atk00.png
+0D
+~~~
+10  Unsheathe-1.png
+3  Unsheathe-2.png
+3  Unsheathe-3.png
+6  Unsheathe-4.png
+3  Unsheathe-5.png
+3  Unsheathe-6.png
+3  Unsheathe-7.png
+1  atk00.png
+~~~
+8  atk00.png
+01
+~~~
+10  Unsheathe-1.png
+3  Unsheathe-2.png
+3  Unsheathe-3.png
+6  Unsheathe-4.png
+3  Unsheathe-5.png
+3  Unsheathe-6.png
+3  Unsheathe-7.png
+1  atk00.png
+~~~
+10  atk00.png
+03
+07
+8  atk00.png
+6  atk01.png
+10 atk02.png
+5  atk03.png
+3  atk04.png
+2  atk05.png
+48
+2  atk06.png
+1  atk07.png
+1  atk08.png
+1  atk09.png
+1  atk10.png
+2  atk11.png
+1  atk12.png
+2  atk13.png
+2  atk14.png
+2  atk15.png
+2  atk16.png
+3  atk17.png
+3  atk18.png
+4  atk19.png
+3  atk20.png
+2  atk21.png
+1  atk22.png
+1  atk23.png
+1  atk24.png
+1  atk25.png
+1  atk26.png
+04
+2  atk27.png
+3  atk28.png
+4  atk29.png
+4  atk30.png
+4  atk31.png
+5  atk32.png
+5  atk33.png
+8  atk34.png
+01
+4  atk35.png
+2  atk36.png
+1  atk37.png
+1  atk38.png
+2  atk39.png
+2  atk40.png
+2  atk41.png
+2  atk42.png
+2  atk43.png
+2  atk44.png
+4  atk45.png
+6  atk46.png
+3  atk47.png
+3  atk48.png
+3  atk49.png
+06
+10  atk00.png
+0D
+1  atk00.png
+~~~

@@ -1,0 +1,13 @@
+#recruiting Qrow
+[MidRight][LoadRuby]
+[MidLeft][LoadQrow]
+Ready to go?[AN]
+[Red]Pair Up[Red] with me,[N]
+and I'll fly us over.[AN]
+When we get there, [Red]switch[Red][N]
+places with me.[AN]
+I've got plenty of [Red]experience[Red][N]
+fighting Grimm already,[AN]
+so today it's all about you.[A]
+[MidRight]
+You got it, Uncle Qrow![A][X]

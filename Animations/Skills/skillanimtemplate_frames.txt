@@ -1,0 +1,26 @@
+
+#incbin skillanimtemplate.dmp
+POIN Frames
+POIN TSAList
+POIN GraphicsList
+POIN PalettesList
+WORD 0x3d1 //sound id
+
+Frames:
+SHORT 0 10  1 10  2 10
+SHORT 0xFFFF
+
+TSAList:
+POIN TSA_frame0
+POIN TSA_frame1
+POIN TSA_frame2
+
+GraphicsList:
+POIN Graphics_frame0
+POIN Graphics_frame1
+POIN Graphics_frame2
+
+PalettesList:
+POIN Pal_frame0
+POIN Pal_frame1
+POIN Pal_frame2

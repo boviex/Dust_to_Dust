@@ -1,0 +1,189 @@
+EventPointerTable(0x07,ThisChapter)
+
+// #include "../Engine Hacks/EventWriter.txt"
+ALIGN 4
+
+ThisChapter:
+POIN TurnBasedEvents
+POIN CharacterBasedEvents
+POIN LocationBasedEvents
+POIN MiscBasedEvents
+POIN Dunno Dunno Dunno
+POIN Tutorial
+POIN TrapData TrapData
+POIN Units Units
+POIN $0 $0 $0 $0 $0 $0
+POIN BeginningScene EndingScene
+
+Units:
+UNIT Ruby RubyLord 0x00 Level(1, Ally, 1) [9,0] 0x00 0x00 0x0 0x00 [CrescentRose, Vulnerary] NoAI 
+// UNIT Lute Mage_F 0 Level(1,Ally,1) [4,3] 0 0 0 0 [Fire] NoAI
+UNIT
+
+TurnBasedEvents:
+TurnEventPlayer(0x0,BattleStart,1)
+// TurnEventPlayer(0x0,Turn2Event,2)
+TurnEventPlayer(8,PostQrowTalk,1,255) //check every turn
+END_MAIN
+
+CharacterBasedEvents:
+CharacterEvent(10,GetDust,Ruby,Qrow)
+CharacterEvent(7,RecruitQrow,Ruby,Qrow)
+END_MAIN
+
+LocationBasedEvents:
+END_MAIN
+
+MiscBasedEvents:
+CauseGameOverIfLordDies
+DefeatAll(EndingSceneCheck)
+END_MAIN
+
+Dunno:
+//DO NOT TOUCH
+WORD $00
+
+Tutorial:
+//DO NOT TOUCH
+WORD $00
+
+TrapData:
+END_MAIN
+
+ALIGN 4
+
+BeginningScene:
+Text(HouseBG,PrologueText1)
+LOAD1 0x1 Units
+ENUN
+STAL 60
+FlashCursor(Ruby, 60)
+Text(Forest,PrologueText2)
+LOAD1 0x1 QrowPrologue
+ENUN
+FlashCursor(Qrow,60)
+Text(Forest, PrologueText3)
+STAL 60
+ENUT 7 //qrow can't be recruited yet
+ENUT 8 //enemies don't spawn yet
+NoFade
+ENDA
+
+EndingScene:
+MUSC 0x3
+SetBackground(Forest)
+TEXTSHOW PrologueText8
+TEXTEND
+MUSC 0x0
+TEXTCONT
+TEXTEND
+REMA
+LOAD1 0x1 TempWeiss
+REMU Ruby
+REMU Qrow
+MNCH 0x38
+ENDB
+
+// Events
+BattleStart:
+CALL SkipTutorialPrompt
+ASMC SetCRUses+1
+Write_Byte(10,0x203a617) //set snag hp to 10
+MOVE 0 Qrow [11,4]
+ENUN
+FlashCursor(Qrow,60)
+Text(PrologueText4)
+FlashCursor(12,1,60) //flash on snag
+STAL 60
+//show some text about "hey cut down the tree and come over"
+NoFade
+ENDA
+
+// Units
+QrowPrologue:
+UNIT Qrow WyvernLord 0x00 Level(1, NPC, 1) [0,0] 0x00 0x00 1 REDA_Qrow [SteelSword] GuardTileAI 
+UNIT
+
+REDA_Qrow:
+REDA [9,2] 0 0 0 0
+
+TempWeiss:
+UNIT Weiss EirikaLord 0x00 Level(1, Ally, 1) [0,0] 0x00 0x00 0 0 [Myrtenaster] NoAI 
+UNIT
+
+Wave1:
+UNIT 0x49 Entombed 0x00 Level(1, Enemy, 0) [0,13] 0x00 0x00 1 REDA1_1 [RottenClaw] NoAI 
+UNIT 0xB7 Revenant 0x00 Level(1, Enemy, 0) [0,13] 0x00 0x00 1 REDA1_2 [RottenClaw] NoAI 
+UNIT 0xB7 Revenant 0x00 Level(1, Enemy, 0) [0,13] 0x00 0x00 1 REDA1_3 [RottenClaw] NoAI 
+UNIT 0xB7 Revenant 0x00 Level(1, Enemy, 0) [0,13] 0x00 0x00 1 REDA1_4 [RottenClaw] NoAI 
+UNIT
+
+REDA1_1:
+REDA [1,10] 0 0 0 0
+REDA1_2:
+REDA [2,12] 0 0 0 0
+REDA1_3:
+REDA [1,8] 0 0 0 0
+REDA1_4:
+REDA [3,9] 0 0 0 0
+// Shop Data
+
+// ASMCs
+ALIGN 4
+SetCRUses:
+BYTE $01 $48 $01 $21 $01 $70 $70 $47 $6B $BE $02 $02
+
+ALIGN 4
+RescueEvent:
+#incbin "RescueEvent.dmp"
+
+RecruitQrow:
+Text(Forest, PrologueText7)
+CUSA Qrow
+NoFade
+ENDA
+
+GetDust:
+Text(Forest, PrologueText5)
+SVAL 3 Dust
+GIVEITEMTO 0xFFFF
+ENUF 8 //spawn enemies next turn
+NoFade
+ENDA
+
+PostQrowTalk:
+STAL 0x10
+LoadReinforcements(Wave1) //load bad guys
+ENUF 7 //unlock qrow recruitment
+ENUT 9 //enable defeatall condition
+STAL 60
+CAM1 Qrow
+FlashCursor(Qrow,60)
+Text(PrologueText6)
+NoFade
+ENDA
+
+SkipTutorialPrompt:
+TUTORIALTEXTBOXSTART
+SVAL 0xB 0xFFFFFFFF
+TEXTSHOW SkipTutorialText
+TEXTEND
+REMA
+SVAL 0x7 0x1
+BNE 0x1 0xC 0x7
+  FADI 3
+  STAL 60
+  CALL EndingScene
+LABEL 0x1
+NoFade
+ENDA
+
+EndingSceneCheck:
+CHECK_EVENTID 9
+BEQ 0 0xC 0x0 //goto label0 if not set
+  CALL EndingScene
+LABEL 0
+NoFade
+ENDA
+
+MESSAGE Events end at offset currentOffset

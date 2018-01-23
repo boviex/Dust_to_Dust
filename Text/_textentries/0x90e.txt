@@ -1,0 +1,5 @@
+The tutorial will [N]
+introduce some of the[N]
+mechanical changes.[AN]
+Would you like to skip[N]
+the tutorial chapter?[N][No][X]

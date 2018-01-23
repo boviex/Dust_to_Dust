@@ -1,0 +1,324 @@
+/// - Mode 1 - atk
+10  p- atk00.png
+C03
+C07
+8  p- atk00.png
+6  p- atk01.png
+10 p- atk02.png
+5  p- atk03.png
+3  p- atk04.png
+//2  p- atk05.png
+S00C4
+2  p- atk06.png
+//1  p- atk07.png
+2  p- atk08.png
+//1  p- atk09.png
+2  p- atk10.png
+//2  p- atk11.png
+2  p- atk12.png
+//2  p- atk13.png
+2  p- atk14.png
+//2  p- atk15.png
+2  p- atk16.png
+//3  p- atk17.png
+3  p- atk18.png
+4  p- atk19.png
+3  p- atk20.png
+//2  p- atk21.png
+2  p- atk22.png
+//1  p- atk23.png
+2  p- atk24.png
+//1  p- atk25.png
+2  p- atk26.png
+C04
+C1A
+C1F
+2  p- atk27.png
+3  p- atk28.png
+//4  p- atk29.png
+4  p- atk30.png
+4  p- atk31.png
+5  p- atk32.png
+5  p- atk33.png
+8  p- atk34.png
+C01
+4  p- atk35.png
+2  p- atk36.png
+//1  p- atk37.png
+2  p- atk38.png
+//2  p- atk39.png
+2  p- atk40.png
+//2  p- atk41.png
+2  p- atk42.png
+//2  p- atk43.png
+2  p- atk44.png
+4  p- atk45.png
+6  p- atk46.png
+3  p- atk47.png
+3  p- atk48.png
+3  p- atk49.png
+C06
+10  p- atk00.png
+C0D
+//1  p- atk00.png
+~~~
+/// - Mode 3 - crit
+10  p- atk00.png
+C03
+C07
+8  p- atk00.png
+6  p- atk01.png
+10 p- atk02.png
+5  p- atk03.png
+3  p- atk04.png
+//2  p- atk05.png
+S00C4
+2  p- atk06.png
+//1  p- atk07.png
+2  p- atk08.png
+//1  p- atk09.png
+2  p- atk10.png
+//2  p- atk11.png
+2  p- atk12.png
+//2  p- atk13.png
+2  p- atk14.png
+//2  p- atk15.png
+3  p- crit02.png
+4  p- crit02.png
+6  p- crit03.png
+3  p- crit04.png
+//2  p- crit05.png
+C14
+C46
+2  p- crit06.png
+3  p- crit07.png
+3  p- crit08.png
+5  p- crit09.png
+6  p- crit10.png
+12 p- crit11.png
+6  p- crit12.png
+7  p- crit13.png
+5  p- crit14.png
+//3  p- crit15.png
+C22
+3  p- crit16.png
+2  p- crit17.png
+3  p- crit18.png
+S00C5
+24 p- crit19.png
+C51
+S00C2
+//1  p- crit20.png
+2  p- crit21.png
+6  p- Dodge-6.png
+6  p- Dodge-7.png
+3  p- crit24.png
+S00C6
+3  p- crit25.png
+3  p- crit26.png
+3  p- crit27.png
+3  p- crit28.png
+3  p- crit29.png
+3  p- crit30.png
+3  p- crit31.png
+3  p- crit32.png
+3  p- crit33p.png
+5  p- crit34p.png
+5  p- crit35p.png
+5  p- crit36p.png
+10 p- crit37p.png
+C04
+C08
+C1F
+//2  p- crit38.png
+3  p- crit39.png
+4  p- crit40.png
+4  p- crit41.png
+//4  p- crit42.png
+5  p- crit43.png
+5  p- crit44.png
+5  p- crit45.png
+6  p- crit46.png
+//6  p- crit47.png
+8  p- crit48.png
+//8  p- crit49.png
+8  p- crit50.png
+10 p- crit51.png
+20 p- crit52.png
+C01
+2  p- crit53.png
+//2  p- atk36.png
+2  p- atk37.png
+//1  p- atk38.png
+2  p- atk39.png
+//2  p- atk40.png
+2  p- atk41.png
+//2  p- atk42.png
+2  p- atk43.png
+//2  p- atk44.png
+4  p- atk45.png
+6  p- atk46.png
+//3  p- atk47.png
+3  p- atk48.png
+//3  p- atk49.png
+C06
+10  p- atk00.png
+C0D
+//1  p- atk00.png
+~~~
+/// - Mode 5 - ranged
+C03
+C07
+8  p- atk00.png
+C05
+8  p- atk00.png
+C01
+C06
+C0D
+~~~
+/// - Mode 6 crit ranged
+C03
+C07
+8  p- atk00.png
+C05
+8  p- atk00.png
+C01
+C06
+8  p- atk00.png
+C0D
+~~~
+/// - Mode 7 dodge
+8  p- atk00.png
+C02
+2  p- atk00.png
+C0E
+2  p- Dodge-1.png
+2  p- Dodge-2.png
+2  p- Dodge-3.png
+5  p- Dodge-4.png
+5  p- Dodge-5.png
+5  p- Dodge-6.png
+2  p- Dodge-7.png
+2  p- Dodge-8.png
+C01
+10  p- Dodge-8.png
+2  p- Dodge-9.png
+2  p- Dodge-10.png
+3  p- Dodge-11.png
+3  p- Dodge-12.png
+5  p- Dodge-13.png
+5  p- Dodge-14.png
+2  p- atk00.png
+C0D
+~~~
+/// - Mode 8 ranged dodge
+8  p- atk00.png
+C02
+2  p- atk00.png
+C0E
+2  p- Dodge-1.png
+2  p- Dodge-2.png
+2  p- Dodge-3.png
+5  p- Dodge-4.png
+5  p- Dodge-5.png
+5  p- Dodge-6.png
+2  p- Dodge-7.png
+2  p- Dodge-8.png
+C01
+10  p- Dodge-8.png
+2  p- Dodge-9.png
+2  p- Dodge-10.png
+3  p- Dodge-11.png
+3  p- Dodge-12.png
+5  p- Dodge-13.png
+5  p- Dodge-14.png
+2  p- atk00.png
+C0D
+~~~
+/// - Mode 9 stand
+10  p- Unsheathe-1.png
+3  p- Unsheathe-2.png
+3  p- Unsheathe-3.png
+6  p- Unsheathe-4.png
+3  p- Unsheathe-5.png
+3  p- Unsheathe-6.png
+3  p- Unsheathe-7.png
+2  p- atk00.png
+~~~
+/// - Mode 10 stand?
+8  p- atk00.png
+C01
+~~~
+/// - Mode 11 ranged stand
+10  p- Unsheathe-1.png
+3  p- Unsheathe-2.png
+3  p- Unsheathe-3.png
+6  p- Unsheathe-4.png
+3  p- Unsheathe-5.png
+3  p- Unsheathe-6.png
+3  p- Unsheathe-7.png
+2  p- atk00.png
+~~~
+/// - Mode 12 miss
+10  p- atk00.png
+C03
+C07
+8  p- atk00.png
+6  p- atk01.png
+10 p- atk02.png
+5  p- atk03.png
+3  p- atk04.png
+//2  p- atk05.png
+S00C4
+2  p- atk06.png
+//1  p- atk07.png
+2  p- atk08.png
+//1  p- atk09.png
+2  p- atk10.png
+//2  p- atk11.png
+2  p- atk12.png
+//2  p- atk13.png
+2  p- atk14.png
+//2  p- atk15.png
+2  p- atk16.png
+//3  p- atk17.png
+3  p- atk18.png
+4  p- atk19.png
+3  p- atk20.png
+//2  p- atk21.png
+2  p- atk22.png
+//1  p- atk23.png
+2  p- atk24.png
+//1  p- atk25.png
+2  p- atk26.png
+C04
+2  p- atk27.png
+3  p- atk28.png
+//4  p- atk29.png
+4  p- atk30.png
+4  p- atk31.png
+5  p- atk32.png
+5  p- atk33.png
+8  p- atk34.png
+C01
+4  p- atk35.png
+2  p- atk36.png
+//1  p- atk37.png
+2  p- atk38.png
+//2  p- atk39.png
+2  p- atk40.png
+//2  p- atk41.png
+2  p- atk42.png
+//2  p- atk43.png
+2  p- atk44.png
+4  p- atk45.png
+6  p- atk46.png
+3  p- atk47.png
+3  p- atk48.png
+3  p- atk49.png
+C06
+10  p- atk00.png
+C0D
+//1  p- atk00.png
+~~~
+/// - End of animation

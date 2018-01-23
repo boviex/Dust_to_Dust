@@ -1,0 +1,15 @@
+Glyph skill notes
+
+Light Rune usability at 8028bb8
+Light Rune targeting at 802902c
+Light Rune effect at 802ff58
+
+command runs routine at 298d5?
+
+802fc48 checks the inventory slot
+... we could hook into that
+
+store 6 at 203f101 for glyph (if selected, ignore the jump table and run my routine.)
+
+8024fa4 determines range
+2c1ec reduces uses - check if 6

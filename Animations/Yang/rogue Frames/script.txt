@@ -1,0 +1,392 @@
+//begin Mode 1
+C03
+C07
+1  p- frame000.png
+3  p- frame001.png
+3  p- frame002.png
+4  p- frame003.png
+C25
+2  p- frame004.png
+2  p- frame005.png
+2  p- frame009.png
+2  p- frame010.png
+3  p- frame011.png
+3  p- frame012.png
+3  p- frame013.png
+3  p- frame014.png
+C22
+2  p- frame015.png
+3  p- frame016.png
+3  p- frame017.png
+2  p- frame018.png
+2  p- frame019.png
+2  p- frame020.png
+3  p- frame021.png
+8  p- frame022.png
+C04
+3  p- frame023.png
+C23
+2  p- frame055.png
+C20
+C1A
+1  p- frame025.png
+C01
+5  p- frame026.png
+4  p- frame027.png
+3  p- frame028.png
+3  p- frame029.png
+3  p- frame030.png
+20  p- frame031.png
+3  p- frame032.png
+2  p- frame033.png
+C38
+2  p- frame034.png
+2  p- frame035.png
+2  p- frame036.png
+3  p- frame037.png
+3  p- frame038.png
+2  p- frame039.png
+2  p- frame002.png
+C34
+C06
+1  p- frame002.png
+3  p- frame001.png
+1  p- frame000.png
+C0D
+~~~
+//begin Mode 2
+C03
+C07
+1  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+4  p- frame005.png
+C25
+2  p- frame005.png
+2  p- frame005.png
+2  p- frame005.png
+2  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+C22
+2  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+2  p- frame005.png
+2  p- frame005.png
+2  p- frame005.png
+3  p- frame006.png
+8  p- frame006.png
+C04
+3  p- frame006.png
+C23
+2  p- frame056.png
+C20
+C1A
+1  p- frame006.png
+C01
+5  p- frame006.png
+4  p- frame006.png
+3  p- frame006.png
+3  p- frame006.png
+3  p- frame006.png
+20  p- frame006.png
+3  p- frame006.png
+2  p- frame006.png
+C38
+2  p- frame006.png
+2  p- frame006.png
+2  p- frame007.png
+3  p- frame007.png
+3  p- frame007.png
+2  p- frame007.png
+2  p- frame005.png
+C34
+C06
+1  p- frame005.png
+3  p- frame005.png
+1  p- frame005.png
+C0D
+~~~
+//begin Mode 3
+C03
+C07
+1  p- frame000.png
+3  p- frame001.png
+C38
+2  p- frame040.png
+2  p- frame041.png
+2  p- frame042.png
+2  p- frame043.png
+C38
+2  p- frame040.png
+2  p- frame041.png
+2  p- frame042.png
+2  p- frame043.png
+2  p- frame044.png
+C38
+2  p- frame045.png
+2  p- frame046.png
+2  p- frame047.png
+2  p- frame048.png
+C38
+2  p- frame045.png
+2  p- frame046.png
+2  p- frame047.png
+2  p- frame048.png
+4  p- frame049.png
+C43
+24  p- frame050.png
+4  p- frame003.png
+C25
+2  p- frame004.png
+2  p- frame005.png
+2  p- frame009.png
+2  p- frame010.png
+3  p- frame011.png
+3  p- frame012.png
+3  p- frame013.png
+3  p- frame014.png
+C22
+2  p- frame015.png
+3  p- frame016.png
+3  p- frame017.png
+2  p- frame018.png
+2  p- frame019.png
+2  p- frame020.png
+3  p- frame021.png
+8  p- frame022.png
+C04
+3  p- frame023.png
+C23
+2  p- frame055.png
+C20
+C08
+1  p- frame025.png
+C01
+5  p- frame026.png
+4  p- frame027.png
+3  p- frame028.png
+3  p- frame029.png
+3  p- frame030.png
+20  p- frame031.png
+3  p- frame032.png
+2  p- frame033.png
+C38
+2  p- frame034.png
+2  p- frame035.png
+2  p- frame036.png
+3  p- frame037.png
+3  p- frame038.png
+2  p- frame039.png
+2  p- frame002.png
+C34
+C06
+1  p- frame002.png
+3  p- frame001.png
+1  p- frame000.png
+C0D
+~~~
+//begin Mode 4
+C03
+C07
+1  p- frame005.png
+3  p- frame005.png
+C38
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+C38
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+C38
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+C38
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+2  p- frame007.png
+4  p- frame007.png
+C43
+24  p- frame007.png
+4  p- frame005.png
+C25
+2  p- frame005.png
+2  p- frame005.png
+2  p- frame005.png
+2  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+C22
+2  p- frame005.png
+3  p- frame005.png
+3  p- frame005.png
+2  p- frame005.png
+2  p- frame005.png
+2  p- frame005.png
+3  p- frame006.png
+8  p- frame006.png
+C04
+3  p- frame006.png
+C23
+2  p- frame056.png
+C20
+C08
+1  p- frame006.png
+C01
+5  p- frame006.png
+4  p- frame006.png
+3  p- frame006.png
+3  p- frame006.png
+3  p- frame006.png
+20  p- frame006.png
+3  p- frame006.png
+2  p- frame006.png
+C38
+2  p- frame006.png
+2  p- frame006.png
+2  p- frame007.png
+3  p- frame007.png
+3  p- frame007.png
+2  p- frame007.png
+2  p- frame005.png
+C34
+C06
+1  p- frame005.png
+3  p- frame005.png
+1  p- frame005.png
+C0D
+~~~
+//begin Mode 5
+C03
+C07
+1  p- frame000.png
+2  p- frame057.png
+C05
+1  p- frame058.png
+C01
+2  p- frame057.png
+C06
+2  p- frame000.png
+C0D
+~~~
+//begin Mode 6
+C03
+C07
+1  p- frame000.png
+2  p- frame057.png
+2  p- frame058.png
+2  p- frame059.png
+2  p- frame060.png
+2  p- frame059.png
+2  p- frame060.png
+2  p- frame059.png
+2  p- frame060.png
+2  p- frame059.png
+2  p- frame060.png
+C05
+1  p- frame058.png
+C01
+2  p- frame057.png
+C06
+2  p- frame000.png
+C0D
+~~~
+//begin Mode 7
+C02
+1  p- frame000.png
+C0E
+3  p- frame053.png
+1  p- frame051.png
+C01
+3  p- frame064.png
+C0D
+~~~
+//begin Mode 8
+C02
+1  p- frame000.png
+C0E
+3  p- frame053.png
+1  p- frame051.png
+C01
+3  p- frame064.png
+C0D
+~~~
+//begin Mode 9
+1  p- frame000.png
+C01
+~~~
+//begin Mode 10
+1  p- frame000.png
+C01
+~~~
+//begin Mode 11
+1  p- frame000.png
+C01
+~~~
+//begin Mode 12
+C03
+C07
+1  p- frame000.png
+3  p- frame001.png
+3  p- frame002.png
+4  p- frame003.png
+C25
+2  p- frame004.png
+2  p- frame005.png
+2  p- frame009.png
+2  p- frame010.png
+3  p- frame011.png
+3  p- frame012.png
+3  p- frame013.png
+3  p- frame014.png
+C22
+2  p- frame015.png
+3  p- frame016.png
+3  p- frame017.png
+2  p- frame018.png
+2  p- frame019.png
+2  p- frame020.png
+3  p- frame021.png
+8  p- frame022.png
+C04
+3  p- frame023.png
+C23
+2  p- frame024.png
+1  p- frame025.png
+C01
+5  p- frame026.png
+4  p- frame027.png
+3  p- frame028.png
+3  p- frame029.png
+3  p- frame030.png
+20  p- frame031.png
+3  p- frame032.png
+2  p- frame033.png
+C38
+2  p- frame034.png
+2  p- frame035.png
+2  p- frame036.png
+3  p- frame037.png
+3  p- frame038.png
+2  p- frame039.png
+2  p- frame002.png
+C25
+C06
+1  p- frame002.png
+3  p- frame001.png
+1  p- frame000.png
+C0D
+~~~
+//End of animation script
