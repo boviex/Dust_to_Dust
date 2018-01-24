@@ -24,6 +24,7 @@
 
     //Graphics
     #include "Graphics/Install Graphics Data.event"
+    #include "Mugs/Mug Installer.event"
 
     //Animations
     #include "Animations/Master Animation Installer.txt"

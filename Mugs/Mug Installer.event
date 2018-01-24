@@ -1,0 +1,17 @@
+#include "Tools/Tool Helpers.txt"
+
+Ruby_Mug:
+#incext PortraitFormatter "ruby2_incomplete.png"
+setMugEntry(0x2, Ruby_Mug, 4, 6, 4, 4)
+
+Qrow_Mug:
+#incext PortraitFormatter "qrow_wip.png"
+setMugEntry(0x25, Qrow_Mug, 4, 5, 4, 3)
+
+Yang_Mug:
+#incext PortraitFormatter "yang_incomplete.png"
+setMugEntry(0x06, Yang_Mug, 2, 5, 2, 3)
+
+Weiss_Mug:
+#incext PortraitFormatter "weiss2_incomplete.png"
+setMugEntry(4, Weiss_Mug, 2,6,2,4)
