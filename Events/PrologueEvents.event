@@ -81,7 +81,7 @@ REMA
 LOAD1 0x1 TempWeiss
 REMU Ruby
 REMU Qrow
-MNCH 0x38
+MNC2 0x2
 ENDB
 
 // Events

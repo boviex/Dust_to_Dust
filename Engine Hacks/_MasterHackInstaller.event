@@ -139,6 +139,19 @@ POP
 
   ALIGN 4
   #include "Skill System/Master Skill Installer.event"
+  PUSH //should fix the debuff bug?
+  ORG 0xBA30
+  WORD 0x203EE80
+
+  ORG 0xBA54
+  WORD 0x203EE80
+
+  ORG 0xFA34
+  WORD 0x203EE80
+
+  ORG 0xD5B80
+  WORD 0x203EE80
+  POP
 
   ALIGN 4
   #include "FE8-Battle Stats with Anims Off/FE8-Battle Stats Master EA File.event"

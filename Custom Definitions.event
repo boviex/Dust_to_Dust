@@ -14,6 +14,10 @@
 #define LunarBrace MoonBracelet
 #define SolarBrace SunBracelet
 
+#define SnowObject 0x8b
+#define SnowPalette 0x8c
+#define SnowTileConfig 0x8d
+
 #include "Engine Hacks/Skill System/skill_definitions.event"
 
 //Characters

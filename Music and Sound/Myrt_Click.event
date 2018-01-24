@@ -1,0 +1,14 @@
+Myrt_Click_data:
+BYTE $BE $7F $BC $00 $BB $05 $BD $00 $E7 $3C $40 $98 $B1 $79 $83 $83
+Myrt_Click:
+WORD $01
+POIN Myrt_Click_map
+POIN Myrt_Click_data
+
+Myrt_Click_map:
+WORD $3c00
+POIN Myrt_Click_wav
+WORD $FF00FF
+
+Myrt_Click_wav:
+#incbin "bin/Myrt_Click.dmp"

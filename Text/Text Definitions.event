@@ -4,7 +4,6 @@
 #endif
 
 
-#define PrologueChName 0x160
 #define LearnedSkillText 0x3A
 #define SS_TalkText 0x3B
 #define SS_SkillsText 0x3c

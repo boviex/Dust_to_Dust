@@ -1,0 +1,33 @@
+#include "drumfix_fe8.event"
+
+PUSH
+ORG 0x1001860
+#incbin "bin/custom_piano.bin"
+POP
+
+voicegroup000:
+#incbin "FE8_NI_Map_custompiano.bin"
+
+SongTable(9,Saga,1)
+#include "Saga.event"
+
+SongTable(0xc0,Myrt_Click,6)
+#include "Myrt_Click.event"
+
+SongTable(0xc1,Weiss_Glyph,6)
+#include "Weiss_Glyph.event"
+
+SongTable(0xc2,CR_Shot,6)
+#include "CR_Shot.event"
+
+SongTable(0xc3,EC_Cock,6)
+#include "EC_Cock.event"
+
+SongTable(0xc4,CR_Swish,6)
+#include "CR_Swish.event"
+
+SongTable(0xc5,CR_Cock,6)
+#include "CR_Cock.event"
+
+SongTable(0xc6,CR_Unfold,6)
+#include "CR_Unfold.event"

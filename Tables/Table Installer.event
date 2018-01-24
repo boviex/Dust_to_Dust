@@ -42,5 +42,9 @@
 
 #include "FE8 Nightmare modules\Item editors\Stat Bonuses Editor.event"
 
+#include "FE8 Nightmare modules\Map sprite editor\Misc map sprite editor.event"
+
+#include "FE8 Nightmare modules\Map sprite editor\Standing map sprite editor.event"
+
 #include "FE8 Nightmare modules\Pair Up Bonuses\Pair Up Bonuses Editor.event"
 

@@ -1,0 +1,14 @@
+CR_Cock_data:
+BYTE $BE $7F $BC $00 $BB $05 $BD $00 $E7 $3C $40 $98 $B1 $79 $83 $83
+CR_Cock:
+WORD $01
+POIN CR_Cock_map
+POIN CR_Cock_data
+
+CR_Cock_map:
+WORD $3c00
+POIN CR_Cock_wav
+WORD $FF00FF
+
+CR_Cock_wav:
+#incbin "bin/CR_Cock.dmp"

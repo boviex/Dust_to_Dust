@@ -146,3 +146,18 @@ World_map_small:
 
 world_map_mini:
 #incext Png2Dmp "minimap_remn.png" --lz77
+
+_SnowObject:
+#incbin "SnowObject_LZ.bin"
+
+_SnowPalette:
+#incbin "SnowPalette_FE8.bin"
+// #incbin "b21palette.bin"
+// #incext Png2Dmp "b21palette.png" --palette-only
+
+_SnowTileConfig:
+#incbin "SnowTileConfig_LZ.bin"
+
+EventPointerTable(SnowObject, _SnowObject)
+EventPointerTable(SnowPalette, _SnowPalette)
+EventPointerTable(SnowTileConfig, _SnowTileConfig)

@@ -11,10 +11,6 @@ TxtData0x00B2:
 #incext ParseFile "_textentries\0x00B2.txt"
 setText(0x00B2,TxtData0x00B2)
 
-TxtData0x160:
-#incext ParseFile "_textentries\0x160.txt"
-setText(0x160,TxtData0x160)
-
 TxtData0x3A:
 #incext ParseFile "_textentries\0x3A.txt"
 setText(0x3A,TxtData0x3A)

@@ -1,0 +1,14 @@
+Weiss_Glyph_data:
+BYTE $BE $7F $BC $00 $BB $05 $BD $00 $E7 $3C $40 $98 $B1 $79 $83 $83
+Weiss_Glyph:
+WORD $01
+POIN Weiss_Glyph_map
+POIN Weiss_Glyph_data
+
+Weiss_Glyph_map:
+WORD $3c00
+POIN Weiss_Glyph_wav
+WORD $FF00FF
+
+Weiss_Glyph_wav:
+#incbin "bin/Weiss_Glyph.dmp"
