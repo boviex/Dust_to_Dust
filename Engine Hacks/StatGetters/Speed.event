@@ -4,7 +4,7 @@
 #include "_Common.event"
 
 pSpeedModifiers: // Speed
-	POIN prAddUnitSpeed prHalveIfRescuing prDebuffSpd prAddEquipSpeed prRallySpd
+	POIN prAddUnitSpeed prDebuffSpd prAddEquipSpeed prRallySpd prPairUpSpd prSkillFury
 WORD 0
 
 prAddUnitSpeed:
@@ -20,5 +20,13 @@ prDebuffSpd:
 prRallySpd:
 	#incbin "_asm/RallySpd.bin"
 	WORD DebuffTable
+
+prPairUpSpd:
+  #incbin "_asm/PairUpSpd.bin"
+  POIN PairUpBonusesTable
+
+prSkillFury:
+  rIfUnitHasSkill(FuryID)
+    rAddConst(2)
 
 #endif // MODULAR_GETTER_SPEED_EVENT

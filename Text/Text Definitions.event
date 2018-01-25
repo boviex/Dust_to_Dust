@@ -126,6 +126,7 @@
 #define WinterDesc 0x28d
 #define ZweiDesc 0x28e
 #define JacquesDesc 0x28f
+#define PrologueChName 0x160
 #define CRName 0x38e
 #define MyrtName 0x38f
 #define GSName 0x390

@@ -8,8 +8,8 @@ POP
 voicegroup000:
 #incbin "FE8_NI_Map_custompiano.bin"
 
-SongTable(9,Saga,1)
-#include "Saga.event"
+// SongTable(9,Saga,1)
+// #include "Saga.event"
 
 SongTable(0xc0,Myrt_Click,6)
 #include "Myrt_Click.event"
