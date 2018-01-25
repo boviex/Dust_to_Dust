@@ -1,6 +1,18 @@
 # 0x0094
 HP Bars[.][X]
 
+#0x21
+Weapon restored.[X]
+
+#0x1a2
+Defeat all monsters[X]
+
+#0x26b
+Misc[X]
+
+# 0x0094
+HP Bars[.][X]
+
 # 0x00B2
 Set health bar display[X]
 
@@ -27,6 +39,8 @@ for one turn[X]
 
 #include "character_names.txt"
 #include "character_descs.txt"
+
+#include "chapter_names.txt"
 
 #include "weapon_names.txt"
 #include "weapon_descs.txt"
