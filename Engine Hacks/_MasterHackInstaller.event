@@ -95,6 +95,9 @@ POP
   //Modular Stat Screen
   #include "ModularStatScreen.event"
 
+  //show ranged anims for some weapons
+  #include "ASM/Range by Table/Range Table Installer.event"
+
   //Stat Screens palette by allegiance
   // #include "StatScreenAllegiance.event"
 

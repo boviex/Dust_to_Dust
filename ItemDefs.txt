@@ -74,7 +74,7 @@
 #undef LongBow
 #define LongBow	0x21
 #undef RuneBow
-#define RuneBow //nosferatu effect	0x22
+#define RuneBow 0x22 //nosferatu effect	0x22
 
 //generic anima
 #undef Fire
@@ -125,7 +125,7 @@
 #define Stormflower	0x37
 
 #undef GlassBow
-#define GlassBow //Cinder's weapon	0x38
+#define GlassBow 0x38 //Cinder's weapon	0x38
 
 //staves
 #undef Heal

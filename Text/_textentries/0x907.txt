@@ -1,6 +1,5 @@
 #in the woods
 [MidRight][LoadRuby]
-This is the spot, but[N]
 Uncle Qrow's late[Beat] again.[AN]
 [.5]Why do I feel like[N]
 I've forgotten something?[A][X]

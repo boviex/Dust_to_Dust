@@ -1,2 +1,2 @@
-Glyph: Create a glyph to block a[N]
-tile for 2 turns. (Cost: 10HP)[X]
+Momentum: Deal +3 damage[N]
+when moving 5 or more tiles.[X]
