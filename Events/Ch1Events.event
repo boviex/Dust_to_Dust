@@ -28,6 +28,7 @@ CharacterBasedEvents:
 END_MAIN
 
 LocationBasedEvents:
+Seize(5,0)
 END_MAIN
 
 MiscBasedEvents:

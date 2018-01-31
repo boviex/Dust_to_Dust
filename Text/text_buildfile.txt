@@ -55,6 +55,12 @@ Sirius[X]
 ## nameZeke
 Zeke[X]
 
+## ControlONMessage
+Enemy Control ON[X]
+
+## ControlOFFMessage
+Enemy Control OFF[X]
+
 ##Ch1TempIntro
 Meanwhile the [Red]White Fang[Red][N]
 attack Castle Schnee in[N]

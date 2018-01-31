@@ -1211,3 +1211,11 @@ TxtData0x4e1:
 #incext ParseFile "_textentries\0x4e1.txt"
 setText(0x4e1,TxtData0x4e1)
 
+TxtData0x4e2:
+#incext ParseFile "_textentries\0x4e2.txt"
+setText(0x4e2,TxtData0x4e2)
+
+TxtData0x4e3:
+#incext ParseFile "_textentries\0x4e3.txt"
+setText(0x4e3,TxtData0x4e3)
+

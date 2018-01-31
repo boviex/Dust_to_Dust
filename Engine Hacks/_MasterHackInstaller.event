@@ -194,6 +194,9 @@ POP
   #incbin "autolevel.dmp"
   ALIGN 4
 
+  //Konami code sets event id 0xb2
+  #include "sekrit.event"
+
   #include "Supply Hack/Supply Hack Installer.event"
   ALIGN 4
 

@@ -1,2 +1,2 @@
-Glyph: Create a glyph to block a[N]
-tile for 2 turns. (Cost: 10HP)[X]
+Identity Problems: This unit can't[N]
+decide on a name or face.[X]
