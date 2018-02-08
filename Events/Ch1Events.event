@@ -33,7 +33,6 @@ END_MAIN
 
 MiscBasedEvents:
 CauseGameOverIfLordDies
-DefeatAll(EndingScene)
 END_MAIN
 
 Dunno:

@@ -1,4 +1,5 @@
 //Pair Up requires Expanded Suspend data to work correctly
+//MAKE SURE TO EDIT THE INJECT CON GETTERS
 
 #ifdef inBLRange
 PUSH
@@ -98,6 +99,8 @@ PUSH
     SHORT 0 0 //don't draw mounted icon
     ORG $35448
     SHORT 0 0 //don't draw mounted icon
+
+    PROTECT $34a7a $34a7e
 POP
 
 ALIGN 4

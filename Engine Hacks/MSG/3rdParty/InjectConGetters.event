@@ -33,11 +33,11 @@ PUSH
 	BL(prGotoConGetter)
 	SHORT 0x1C02 0xBC01 0xE003 //mov r2,r0; pop {r0}; b
 
-	//Display rescuee's con
-	ORG $34A78
-	SHORT 0x1C20 //mov r0,r4
-	BL(prGotoConGetter)
-	SHORT 0x1C03 0xE005 //mov r3,r0; b
+	//Display rescuee's con //commented out bc pair up
+	// ORG $34A78
+	// SHORT 0x1C20 //mov r0,r4
+	// BL(prGotoConGetter)
+	// SHORT 0x1C03 0xE005 //mov r3,r0; b
 
 	//Load con into battle struct
 	ORG $2A5CE

@@ -1,0 +1,58 @@
+
+////////////////////////////////////////////////////
+//                                                //
+// Disassembled with Nintenlord's Event Assembler //
+// Version: 11.0.0.0                              //
+// Game: FE8                                      //
+// File: FE8_clean.gba                            //
+// Offset: $9EE6F4                                //
+//                                                //
+////////////////////////////////////////////////////
+
+
+
+ORG $9EE6F4
+TUTORIALTEXTBOXSTART
+CHECK_ACTIVE (into slot c)
+SLOTS_SETFROMQUEUE 0x2 (contains Eirika character ID)
+BNE 0x0 0xC 0x2 (go to LABEL 0x0 if active unit is not eirika)
+      (if eirika)
+      WORD 0xFFFF3120 (draw cursor? _0x3120 0xFFFF)
+      SLOTS_SETFROMQUEUE 0xB (coords 0x50004)
+      WORD 0xFFFF3B24 (flash cursor at coords in slot B? _0x3b24 0xFFFF)
+      STAL 18
+      SLOTS_SETFROMQUEUE 0x2 (text ID 91B "move anywhere in blue zone")
+      SLOTS_SETFROMQUEUE 0xB (text coords)
+      TEXTSHOW 0xFFFF
+      TEXTEND
+      CURE
+      STORETOSOMETHING 0x10A (stores 0x10A to 0300:0010 - changing it to 0x10B makes you unable to press A!)
+          SLOTS_SETFROMQUEUE 0xC (text ID 91A to be wasted)
+          SLOTS_SETFROMQUEUE 0xC (text coords for 91a)
+      SLOTS_SETFROMQUEUE 0x2 (POIN 9ef328 - queue for next event?)
+      WORD 0x30B41 0xFFFFFFFF (unknown) (_0xb41 0x3 0xFFFFFFFF)
+      GOTO 0x1
+            LABEL 0x0 
+            (if not eirika)
+            SLOTS_SETFROMQUEUE 0xC (waste coords)
+            SLOTS_SETFROMQUEUE 0xC (waste text id)
+            SLOTS_SETFROMQUEUE 0xC (waste text coords)
+            WORD 0xFFFD3B25 (flash cursor at Eirika? _0x3b25 0xFFFD is unit in slot 2 i.e. Eirika)
+            STAL 8
+            WORD 0xFFFD3820 (move cursor to eirika???)
+            SLOTS_SETFROMQUEUE 0x2 (text ID 91a "select eirika dumbass")
+            SLOTS_SETFROMQUEUE 0xB (text coords)
+            TEXTSHOW 0xFFFF
+            TEXTEND
+            CURE
+            SLOTS_SETFROMQUEUE 0xC (waste next event pointer)
+            SLOTS_SETFROMQUEUE 0x2 (pointer to original event again)
+            WORD 0x20B41 0xFFFFFFFF (_0xb41 0x2 0xFFFFFFFF)
+
+LABEL 0x1
+REMA
+ENDA
+
+//The next line is to ensure that new events do not overwrite other data.
+//Do not delete unless you are SURE you know what you are doing!
+ASSERT $9EE794 - currentOffset
