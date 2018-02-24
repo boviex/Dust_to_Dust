@@ -6,9 +6,9 @@ BYTE 00 00
 ALIGN 4
 
 EirikaLordSkillList:
-BYTE 255 MoonbowID
+BYTE 255 RightfulArchID
 // BYTE 10 EvenRhythmID
-BYTE 10 RightfulKingID
+BYTE 255 PaviseID
 BYTE 20 BondID
 BYTE 00 00
 ALIGN 4

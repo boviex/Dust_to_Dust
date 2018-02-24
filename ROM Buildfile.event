@@ -31,9 +31,12 @@
 
     //Animations
     #include "Animations/Master Animation Installer.txt"
-    
+
     MESSAGE Used free space ends at currentOffset
-    MESSAGE Proc_Counter
+
+    //DRM LOL
+    ORG $AC
+    String(_D2D)
 #else
     ERROR You are not assembling FE8 events!
 #endif
